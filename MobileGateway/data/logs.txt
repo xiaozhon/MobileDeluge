@@ -1,0 +1,219 @@
+
+
+###########################################################################
+###########################################################################
+2014-08-26 23:45:17:
+	Start a new iteration!
+
+2014-08-26 23:50:41
+	Exit Mobile Deluge...
+
+2014-08-26 23:52:47
+	Exit Mobile Deluge...
+
+2014-08-26 23:53:46
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 5	Voltage (mV): 2.3291016
+
+2014-08-26 23:53:59
+	Connecting to nodes: 	221
+	Node 221 is READY	Type: TelosB	Version: 5	Voltage (mV): 2.2668457
+
+2014-08-26 23:54:06
+	Connecting to nodes: 	221
+
+2014-08-26 23:54:32
+	Abort all the nodes: 
+	221
+
+2014-08-26 23:54:38
+	Detecting neighbors...
+
+2014-08-26 23:54:56
+	Detecting neighbors...
+
+2014-08-26 23:55:21
+	Detecting neighbors...
+
+2014-08-26 23:58:17
+	Exit Mobile Deluge...
+
+2014-08-26 23:58:31
+	Detecting neighbors...
+
+2014-08-26 23:59:06
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 5	Voltage (mV): 2.3261719
+
+2014-08-26 23:59:19
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 5	Voltage (mV): 2.2734375
+
+2014-08-26 23:59:31
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 5	Voltage (mV): 2.2668457
+
+2014-08-26 23:59:44
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 5	Voltage (mV): 2.2697754
+
+2014-08-26 23:59:51
+	Connecting to nodes: 	221
+	Node 221 is READY	Type: TelosB	Version: 5	Voltage (mV): 2.2675781
+
+2014-08-26 23:59:58
+	Abort all the nodes: 
+	221
+
+2014-08-27 00:00:21
+	Detecting neighbors...
+
+2014-08-27 00:01:03
+	Detecting neighbors...
+
+2014-08-27 00:01:15
+	Connecting to nodes: 	221
+
+2014-08-27 00:01:41
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 5	Voltage (mV): 2.2705078
+
+2014-08-27 00:04:20
+	Detecting neighbors...
+
+2014-08-27 00:06:33
+	Detecting neighbors...
+
+2014-08-27 00:07:46
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2609863
+
+2014-08-27 00:09:17
+	Exit Mobile Deluge...
+
+2014-08-27 00:10:26
+	Detecting neighbors...
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2705078
+
+2014-08-27 00:10:40
+	Connecting to nodes: 	204
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+
+2014-08-27 00:10:48
+	Abort all the nodes: 
+	204
+
+2014-08-27 00:10:56
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2675781
+
+2014-08-27 00:11:16
+	Abort the nodes: 
+	204
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2705078
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+
+2014-08-27 00:12:17
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2668457
+
+2014-08-27 00:12:31
+	Abort the nodes: 
+	204
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2675781
+
+2014-08-27 00:14:39
+Try to abort all nodes, but no nodes are in the memory, maybe the gateway is just started.
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2668457
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+
+2014-08-27 00:14:54
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2683105
+
+2014-08-27 00:15:04
+	Abort the nodes: 
+	204
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2646484
+
+2014-08-27 00:15:44
+	Exit Mobile Deluge...
+
+2014-08-27 00:16:26
+	Detecting neighbors...
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.269043
+
+2014-08-27 00:16:42
+	Abort the nodes: 
+	204
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.263916
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+
+2014-08-27 00:17:58
+	Exit Mobile Deluge...
+
+2014-08-27 00:18:07
+	Abort the nodes: 
+	205
+
+2014-08-27 00:18:19
+	Abort the nodes: 
+	204
+
+2014-08-27 00:18:26
+	Detecting neighbors...
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2668457
+
+2014-08-27 00:18:32
+	Abort the nodes: 
+	204
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2631836
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+
+2014-08-27 00:20:00
+Try to abort all nodes, but no nodes are in the memory, maybe the gateway is just started.
+
+2014-08-27 00:20:20
+	Detecting neighbors...
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2697754
+
+2014-08-27 00:20:33
+	Abort the nodes: 
+	204
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2609863
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+
+2014-08-27 00:22:10
+	Exit Mobile Deluge...
+
+2014-08-27 00:22:19
+	Detecting neighbors...
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2705078
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+
+2014-08-27 00:22:25
+	Abort the nodes: 
+	204
+
+2014-08-27 00:22:42
+	Connecting to nodes: 	204	221
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.3239746
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+
+2014-08-27 00:22:47
+	Abort all the nodes: 
+	204	221
+
+2014-08-27 00:22:52
+	Detecting neighbors...
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.263916
+
+2014-08-27 00:22:56
+	Detecting neighbors...
+	Node 204 is READY	Type: IRIS	Version: 7	Voltage (mV): 0.0
+	Node 221 is READY	Type: TelosB	Version: 7	Voltage (mV): 2.2668457

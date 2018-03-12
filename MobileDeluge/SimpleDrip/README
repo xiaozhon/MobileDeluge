@@ -1,0 +1,15 @@
+SimpleDrip:
+
+A simple replacement of Drip. It keeps the same set of interfaces to the higher layer
+as Drip does. The functionalities are largely simplified: it only disseminates packets
+in one-hop range. It is designed as the lower layer for MobileDeluge.
+
+Functionalities:
+
+1. Disseminate packets from base station to nodes.
+
+2. Base will send the new packet in a constant rate of 1 packet/5 seconds. It does not 
+   follow the trickle pattern.
+   
+3. Nodes will only receive this packet and signal the higher layer, it will not rebroadcast
+   this packets.

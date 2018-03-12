@@ -1,0 +1,105 @@
+##############################################################################
+MobileGateway
+
+##############################################################################
+Update 2014-10-27: Version 2.3.3, for MobileDeluge v4.1.4
+	Fixed Bug for conversion formula of Iris and MicaZ motes.
+		for Iris:
+			1100*1024/readings
+			
+		for Micaz:
+			1223*1024/readings
+
+##############################################################################
+Update 2014-10-24: Version 2.3.3, for MobileDeluge v4.1.4
+	Fixed Bug for "Abort" command:
+		- Bug: if the input of the target is invalid, the code didn't return.
+		      no "return;" statement in (id_error == true) branch.
+		  in this case the abort packet will be sent anyway.
+		  
+		- Fix:
+			Add the "return;" statement in the (id_error == true) branch    
+
+##############################################################################
+Update 2014-10-6: Version 2.3.2, for MobileDeluge v4.1.4
+	Add SET_ID command to MobileDeluge.
+	
+	Files changed:
+		MobileGateway.java
+		Operations.java
+		Constants.java
+		SerialComm.java
+	
+	Replaced files:  (generating using tinyos compiler)
+		SerialReplyMsg.java
+		SerialCmdMsg.java
+		
+	1. Add SET_ID command:
+	   -- MobileGateway.java:
+	   		in switch branch, add the command "12" for set node id
+	   		
+	   -- Operations.java:
+	   		Add "set_id()" function
+	   		
+	   -- Constants.java:
+	   		Add constant "SET_ID" and "NODE_SET_ID"
+	   		
+	
+	2. Send a init message to the DelugeBase when start up. This command is used
+	   to check the connection between the MobileGateway and the DelgueBase. The 
+	   DelugeBase will ignore this command. 
+	   
+	   -- in Operations.java:
+	   		in "init()" function.
+	   	  
+	   -- Constants.java:
+	   		Add "INIT_MSG"
+	   		
+	3. 
+	
+	
+
+##############################################################################
+Update 2014-9-8: Version 2.3.1, for MobileDeluge v4.1.2
+	Changed the formula to convert telosb's voltage. Use
+		volt = raw * 5 * 1000 / 4096
+	to convert the voltage from Volt (V) to Milli volt (mV).
+
+##############################################################################
+Update 2014-9-5: Version 2.3, for MobileDeluge v4.1
+	Changed the formula to convert telosb's voltage. Use 
+		volt = raw * 5 / 4096
+	instead of 
+		volt = raw * 3 / 4096
+	
+	The reference voltage has been changed for the telosb motes, thus the total range
+	changed from [0, 3V] to [0, 5V].
+
+##############################################################################
+Update 2014-9-2: Version 2.2, for MobileDeluge v4.1
+	1. Operations.java:
+		- send a "-s" command before sending a "connect" command
+		
+	2. SerialComm.java:
+		- messageReceived(): bug fixed
+			"
+				case Constants.IRIS_MOTE:
+					nodeType = "IRIS";
+				//	if(voltage != 0) {
+						// if there is no sensorboard attached with the mote,
+						// voltage reading will be 0.
+						voltage = 1023*1024 / msg.get_nodeVoltage();
+				//	}
+					break;
+			"
+			fixed the bug of voltage readings of MicaZ and IRIS motes.
+
+
+##############################################################################
+Update 2014-8-28: Version 2.1, for MobileDeluge v4.1
+	Added two commands to the MobileDeluge
+	
+	1. Add reboot command
+	
+	2. Add detect a single target command
+	

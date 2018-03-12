@@ -1,0 +1,80 @@
+
+2015-06-26 15:27:53
+	Detecting neighbors...
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3083.496
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3123.0
+
+2015-06-26 15:28:00
+	Detecting neighbors...
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3082.2754
+
+2015-06-26 15:28:08
+	Detecting neighbors...
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3083.496
+
+2015-06-26 15:28:41
+	Detecting neighbors...
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3082.2754
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+
+2015-06-26 15:28:47
+	 Detect a subset of targets: 	221
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3082.2754
+
+2015-06-26 15:28:50
+	Detecting neighbors...
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3081.0547
+
+2015-06-26 15:29:07
+	 Reboot a single node: 	221
+
+2015-06-26 15:29:22
+	Detecting neighbors...
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3079.834
+
+2015-06-26 15:29:37
+	 Set the node address of 221 to 230.
+
+2015-06-26 15:29:43
+	Detecting neighbors...
+	Node 230	Type: TelosB	Version: 32	Voltage (mV): 3081.0547
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+
+2015-06-26 15:30:08
+	 Set the node address of 230 to 221.
+
+2015-06-26 15:30:11
+	Detecting neighbors...
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3099.3652
+
+2015-06-26 15:30:22
+	Detecting neighbors...
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3081.0547
+
+2015-06-26 15:38:44
+	 Set the node address of 204 to 250.
+
+2015-06-26 15:38:49
+	Detecting neighbors...
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3082.2754
+	Node 250	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+
+2015-06-26 15:39:00
+	 Set the node address of 250 to 204.
+
+2015-06-26 15:39:24
+	Detecting neighbors...
+	Node 221	Type: TelosB	Version: 32	Voltage (mV): 3081.0547
+	Node 204	Type: MICAz	Version: 32	Voltage (mV): 3115.0
+
+2015-06-26 15:39:39
+	Stop command issued!
+
+2015-06-26 16:32:07
+	Exit Mobile Deluge...

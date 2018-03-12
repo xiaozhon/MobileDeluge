@@ -1,0 +1,4988 @@
+
+2017-07-25 10:10:32
+	Detecting neighbors...
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 2239.0
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 40031	Type: TelosB	Version: 41	Voltage (mV): 2532.959
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3818.0
+	Node 10701	Type: IRIS	Version: 50	Voltage (mV): 3657.0
+	Node 11301	Type: IRIS	Version: 41	Voltage (mV): 3754.0
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 11001	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 22331	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3605.957
+	Node 50431	Type: IRIS	Version: 41	Voltage (mV): 2257.0
+	Node 11201	Type: IRIS	Version: 50	Voltage (mV): 2503.0
+	Node 21931	Type: TelosB	Version: 44	Voltage (mV): 3719.4824
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2141.0
+
+2017-07-25 10:11:15
+	Stop command issued!
+
+2017-07-25 10:11:32
+	 Detect a subset of targets: 	40331
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 2243.0
+
+2017-07-25 10:11:39
+	Stop command issued!
+
+2017-07-25 10:11:40
+	Connecting to nodes: 	40331
+
+2017-07-25 10:11:58
+	Exit Mobile Deluge...
+
+2017-07-25 10:12:07
+	Detecting neighbors...
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 2248.0
+	Node 40231	Type: TelosB	Version: 41	Voltage (mV): 2537.8418
+	Node 11001	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 11301	Type: IRIS	Version: 41	Voltage (mV): 3754.0
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 40031	Type: TelosB	Version: 41	Voltage (mV): 2532.959
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+
+2017-07-25 10:12:24
+	Stop command issued!
+
+2017-07-25 10:12:24
+	Connecting to nodes: 	40331
+	Node 40331 is READY	Type: IRIS	Version: 42	Voltage (mV): 2230.0
+
+2017-07-25 10:12:30
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	40331
+
+2017-07-25 10:15:55
+	Stop command issued!
+
+2017-07-25 10:16:03
+	 Detect a subset of targets: 	40331
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 2230.0
+
+2017-07-25 10:17:01
+	 Detect a subset of targets: 	11301
+	Node 11301	Type: IRIS	Version: 41	Voltage (mV): 3754.0
+
+2017-07-25 10:17:08
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	40331
+
+2017-07-25 10:17:11
+	Stop command issued!
+
+2017-07-25 10:17:17
+	Stop command issued!
+
+2017-07-25 10:17:17
+	Connecting to nodes: 	11301
+	Node 11301 is READY	Type: IRIS	Version: 41	Voltage (mV): 3754.0
+
+2017-07-25 10:17:23
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	11301
+
+2017-07-25 10:19:32
+	Stop command issued!
+
+2017-07-25 10:19:38
+	 Detect a subset of targets: 	11301
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+
+2017-07-25 10:20:47
+	 Detect a subset of targets: 	10501	10601
+	Node 10501	Type: IRIS	Version: 41	Voltage (mV): 2261.0
+
+2017-07-25 10:21:17
+	 Detect a subset of targets: 	10601
+
+2017-07-25 10:21:30
+	Detecting neighbors...
+	Node 11201	Type: IRIS	Version: 50	Voltage (mV): 2492.0
+	Node 40231	Type: TelosB	Version: 41	Voltage (mV): 2537.8418
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3336.1816
+	Node 20031	Type: IRIS	Version: 41	Voltage (mV): 3705.0
+	Node 40031	Type: TelosB	Version: 41	Voltage (mV): 2532.959
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3818.0
+	Node 10501	Type: IRIS	Version: 41	Voltage (mV): 2261.0
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 11001	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 23131	Type: TelosB	Version: 44	Voltage (mV): 3743.8965
+
+2017-07-25 10:22:07
+	 Detect a subset of targets: 	10501
+	Node 10501	Type: IRIS	Version: 41	Voltage (mV): 2266.0
+
+2017-07-25 10:22:33
+	Stop command issued!
+
+2017-07-25 10:22:34
+	Connecting to nodes: 	10501
+	Node 10501 is READY	Type: IRIS	Version: 41	Voltage (mV): 2266.0
+
+2017-07-25 10:22:44
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	10501
+
+2017-07-25 10:26:06
+	Stop command issued!
+
+2017-07-25 10:30:51
+	 Detect a subset of targets: 	10501
+
+2017-07-25 10:31:04
+	Abort the nodes: 
+	10501
+
+2017-07-25 10:31:11
+	 Detect a subset of targets: 	10501
+
+2017-07-25 10:31:25
+	Detecting neighbors...
+	Node 11001	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 23031	Type: TelosB	Version: 44	Voltage (mV): 3702.3926
+	Node 10701	Type: IRIS	Version: 50	Voltage (mV): 3657.0
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3831.0
+	Node 40031	Type: TelosB	Version: 41	Voltage (mV): 2532.959
+	Node 11201	Type: IRIS	Version: 50	Voltage (mV): 2497.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3377.6855
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2145.0
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 40231	Type: TelosB	Version: 41	Voltage (mV): 2537.8418
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+
+2017-07-25 10:31:45
+	Abort the nodes: 
+	10501
+
+2017-07-25 10:32:15
+	 Detect a subset of targets: 	10501
+	Node 10501	Type: IRIS	Version: 50	Voltage (mV): 2212.0
+
+2017-07-25 10:33:40
+	Detecting neighbors...
+	Node 21831	Type: TelosB	Version: 44	Voltage (mV): 3802.4902
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2380.0
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 62031	Type: TelosB	Version: 44	Voltage (mV): 3696.289
+	Node 11001	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2145.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2178.0
+	Node 62131	Type: TelosB	Version: 44	Voltage (mV): 2528.0762
+	Node 21931	Type: TelosB	Version: 44	Voltage (mV): 3719.4824
+	Node 22931	Type: TelosB	Version: 44	Voltage (mV): 3725.586
+	Node 22331	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22231	Type: TelosB	Version: 44	Voltage (mV): 3874.5117
+	Node 20031	Type: IRIS	Version: 41	Voltage (mV): 3705.0
+	Node 23131	Type: TelosB	Version: 44	Voltage (mV): 3742.6758
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 40231	Type: TelosB	Version: 41	Voltage (mV): 2537.8418
+
+2017-07-25 10:33:57
+	 Detect a subset of targets: 	10401
+
+2017-07-25 10:34:25
+	Stop command issued!
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3376.4648
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2137.0
+	Node 20031	Type: IRIS	Version: 41	Voltage (mV): 3705.0
+	Node 40231	Type: TelosB	Version: 41	Voltage (mV): 2537.8418
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3609.6191
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3818.0
+	Node 61931	Type: TelosB	Version: 44	Voltage (mV): 3834.2285
+	Node 22231	Type: TelosB	Version: 44	Voltage (mV): 3873.291
+	Node 62131	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 2528.0762
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22931	Type: TelosB	Version: 44	Voltage (mV): 3725.586
+	Node 23031	Type: TelosB	Version: 44	Voltage (mV): 3703.6133
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+
+2017-07-25 10:35:21
+	 Detect a subset of targets: 	21631
+
+2017-07-25 10:35:44
+	 Detect a subset of targets: 	21731
+
+2017-07-25 10:36:36
+	 Detect a subset of targets: 	21831	21931
+
+2017-07-25 10:36:48
+	Exit Mobile Deluge...
+
+2017-07-25 10:36:53
+	Detecting neighbors...
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2137.0
+	Node 22131	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 21631	Type: TelosB	Version: 44	Voltage (mV): 3653.5645
+	Node 22331	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22931	Type: TelosB	Version: 44	Voltage (mV): 3724.3652
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3608.3984
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22231	Type: TelosB	Version: 44	Voltage (mV): 3873.291
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 23031	Type: TelosB	Version: 44	Voltage (mV): 3703.6133
+	Node 21931	Type: TelosB	Version: 44	Voltage (mV): 3719.4824
+	Node 62131	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 20031	Type: IRIS	Version: 41	Voltage (mV): 3705.0
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2484.0
+	Node 22431	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2174.0
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+
+2017-07-25 10:37:18
+	Stop command issued!
+
+2017-07-25 10:37:18
+	Connecting to nodes: 	21631
+
+2017-07-25 10:37:44
+	Abort all the nodes: 
+	21631
+
+2017-07-25 10:38:42
+	Detecting neighbors...
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2475.0
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2376.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 21831	Type: TelosB	Version: 44	Voltage (mV): 3801.2695
+	Node 21631	Type: TelosB	Version: 44	Voltage (mV): 3653.5645
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3623.0469
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3355.713
+	Node 21931	Type: TelosB	Version: 44	Voltage (mV): 3719.4824
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 20031	Type: IRIS	Version: 41	Voltage (mV): 3705.0
+	Node 22831	Type: TelosB	Version: 44	Voltage (mV): 3780.5176
+
+2017-07-25 10:38:59
+	Stop command issued!
+
+2017-07-25 10:39:00
+	Connecting to nodes: 	21631
+	Node 21631 is READY	Type: TelosB	Version: 44	Voltage (mV): 3674.3164
+
+2017-07-25 10:39:07
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21631
+
+2017-07-25 10:40:50
+	Stop command issued!
+
+2017-07-25 10:40:57
+	 Detect a subset of targets: 	21631
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3651.123
+
+2017-07-25 10:41:31
+	Stop command issued!
+
+2017-07-25 10:41:31
+	Connecting to nodes: 	61831
+
+2017-07-25 10:41:43
+	Detecting neighbors...
+	Node 22331	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 20031	Type: IRIS	Version: 41	Voltage (mV): 3705.0
+	Node 21931	Type: TelosB	Version: 44	Voltage (mV): 3720.7031
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3946.5332
+	Node 22131	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 21831	Type: TelosB	Version: 44	Voltage (mV): 3852.539
+	Node 22231	Type: TelosB	Version: 44	Voltage (mV): 3874.5117
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2542.7246
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2051.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2178.0
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3831.0
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3651.123
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3607.1777
+	Node 22431	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+
+2017-07-25 10:42:02
+	Stop command issued!
+
+2017-07-25 10:42:02
+	Connecting to nodes: 	21831
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2117.0
+	Node 22331	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2542.7246
+	Node 20031	Type: IRIS	Version: 41	Voltage (mV): 3705.0
+	Node 21831 is READY	Type: TelosB	Version: 44	Voltage (mV): 3801.2695
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2479.0
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2547.6074
+
+2017-07-25 10:42:12
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	61831	21831
+
+2017-07-25 10:44:13
+	Stop command issued!
+
+2017-07-25 10:44:25
+	 Detect a subset of targets: 	21831	21931
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3717.041
+
+2017-07-25 10:44:36
+	Detecting neighbors...
+
+2017-07-25 10:44:47
+	Exit Mobile Deluge...
+
+2017-07-25 10:44:57
+	Detecting neighbors...
+	Node 22131	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 2542.7246
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3625.4883
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3652.3438
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3848.877
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3715.8203
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3946.5332
+	Node 22231	Type: TelosB	Version: 44	Voltage (mV): 3863.5254
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2170.0
+
+2017-07-25 10:45:59
+	Detecting neighbors...
+	Node 50431	Type: IRIS	Version: 41	Voltage (mV): 2257.0
+	Node 60101	Type: IRIS	Version: 41	Voltage (mV): 3729.0
+	Node 22131	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3651.123
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2137.0
+	Node 22331	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 40031	Type: TelosB	Version: 41	Voltage (mV): 2532.959
+	Node 22431	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2174.0
+	Node 62131	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3846.4355
+	Node 22231	Type: TelosB	Version: 44	Voltage (mV): 3872.0703
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3732.9102
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2371.0
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3818.0
+	Node 61931	Type: TelosB	Version: 44	Voltage (mV): 3834.2285
+	Node 60631	Type: TelosB	Version: 44	Voltage (mV): 2542.7246
+
+2017-07-25 10:46:33
+	 Detect a subset of targets: 	20301	20031
+
+2017-07-25 10:47:55
+	 Detect a subset of targets: 	20031
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 3894.043
+	Node 22131	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 20031	Type: IRIS	Version: 41	Voltage (mV): 3705.0
+	Node 21931	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3818.0
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3945.3125
+	Node 22431	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3653.5645
+	Node 22931	Type: TelosB	Version: 44	Voltage (mV): 3721.9238
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3608.3984
+	Node 22831	Type: TelosB	Version: 44	Voltage (mV): 3774.414
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2141.0
+	Node 40031	Type: TelosB	Version: 41	Voltage (mV): 2532.959
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+
+2017-07-25 10:53:19
+	 Detect a subset of targets: 	20031
+
+2017-07-25 10:53:29
+	Detecting neighbors...
+
+2017-07-25 10:53:36
+	Exit Mobile Deluge...
+
+2017-07-25 10:54:20
+	 Detect a subset of targets: 	22031	22131	22231
+	Node 22131	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 22231	Type: TelosB	Version: 44	Voltage (mV): 3863.5254
+
+2017-07-25 10:54:40
+	Stop command issued!
+
+2017-07-25 10:54:40
+	Connecting to nodes: 	22231
+	Node 22231 is READY	Type: TelosB	Version: 44	Voltage (mV): 3858.6426
+
+2017-07-25 10:54:44
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22231
+
+2017-07-25 10:56:45
+	Stop command issued!
+
+2017-07-25 10:56:48
+	Abort all the nodes: 
+	22231
+
+2017-07-25 10:56:57
+	 Detect a subset of targets: 	22431
+	Node 22431	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+
+2017-07-25 10:57:55
+	 Detect a subset of targets: 	22531
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+
+2017-07-25 10:59:15
+	Stop command issued!
+
+2017-07-25 10:59:22
+	 Detect a subset of targets: 	20031
+
+2017-07-25 10:59:32
+	Detecting neighbors...
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3945.3125
+	Node 62131	Type: TelosB	Version: 44	Voltage (mV): 2528.0762
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3714.5996
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 3919.6777
+	Node 22131	Type: TelosB	Version: 44	Voltage (mV): 3839.1113
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22231	Type: TelosB	Version: 50	Voltage (mV): 3859.8633
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3797.6074
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3652.3438
+	Node 22831	Type: TelosB	Version: 44	Voltage (mV): 3785.4004
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 22931	Type: TelosB	Version: 44	Voltage (mV): 3737.793
+	Node 22431	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3607.1777
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2133.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2166.0
+
+2017-07-25 11:00:15
+	 Detect a subset of targets: 	20031
+
+2017-07-25 11:00:30
+	Exit Mobile Deluge...
+
+2017-07-25 11:00:37
+	Stop command issued!
+
+2017-07-25 11:00:37
+	Connecting to nodes: 	20031
+
+2017-07-25 11:00:52
+	Abort all the nodes: 
+	20031
+
+2017-07-25 11:01:01
+	Stop command issued!
+
+2017-07-25 11:01:32
+	Detecting neighbors...
+
+2017-07-25 11:01:43
+	Exit Mobile Deluge...
+
+2017-07-25 11:01:48
+	Detecting neighbors...
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2380.0
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 3883.0566
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 22231	Type: TelosB	Version: 50	Voltage (mV): 3859.8633
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3717.041
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3848.877
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3946.5332
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3818.0
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22131	Type: TelosB	Version: 44	Voltage (mV): 3833.0078
+	Node 22331	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3669.4336
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2479.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2182.0
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 3894.043
+
+2017-07-25 11:02:01
+	 Detect a subset of targets: 	20301
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+
+2017-07-25 11:02:11
+	Stop command issued!
+
+2017-07-25 11:02:11
+	Connecting to nodes: 	20301
+	Node 20301 is READY	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+
+2017-07-25 11:02:16
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20301
+
+2017-07-25 11:02:26
+	Stop command issued!
+
+2017-07-25 11:02:43
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20301
+
+2017-07-25 11:02:56
+	Stop command issued!
+
+2017-07-25 11:03:21
+	Abort the nodes: 
+	20301
+
+2017-07-25 11:03:33
+	 Detect a subset of targets: 	20031
+
+2017-07-25 11:04:05
+	Exit Mobile Deluge...
+
+2017-07-25 11:04:19
+	 Detect a subset of targets: 	21731
+	Node 21731	Type: TelosB	Version: 44	Voltage (mV): 3891.6016
+
+2017-07-25 11:04:28
+	Stop command issued!
+
+2017-07-25 11:04:28
+	Connecting to nodes: 	21731
+	Node 21731 is READY	Type: TelosB	Version: 44	Voltage (mV): 3891.6016
+
+2017-07-25 11:04:33
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21731
+
+2017-07-25 11:04:52
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21731
+
+2017-07-25 11:06:38
+	Stop command issued!
+
+2017-07-25 11:06:45
+	 Detect a subset of targets: 	21731
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3887.9395
+
+2017-07-25 11:07:20
+	Detecting neighbors...
+	Node 22131	Type: TelosB	Version: 44	Voltage (mV): 3830.5664
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 22931	Type: TelosB	Version: 44	Voltage (mV): 3723.1445
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 3886.7188
+	Node 22031	Type: TelosB	Version: 44	Voltage (mV): 3883.0566
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3718.2617
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22231	Type: TelosB	Version: 50	Voltage (mV): 3856.2012
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3801.2695
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2141.0
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2475.0
+	Node 22331	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 62131	Type: TelosB	Version: 44	Voltage (mV): 2532.959
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3653.5645
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3891.6016
+
+2017-07-25 11:08:43
+	Stop command issued!
+
+2017-07-25 11:08:43
+	Connecting to nodes: 	22031	22131
+	Node 22131 is READY	Type: TelosB	Version: 44	Voltage (mV): 3853.7598
+	Node 22031 is READY	Type: TelosB	Version: 44	Voltage (mV): 3883.0566
+
+2017-07-25 11:08:48
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22031	22131
+
+2017-07-25 11:10:30
+	Stop command issued!
+
+2017-07-25 11:10:40
+	 Detect a subset of targets: 	22431	22331
+	Node 22331	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 22431	Type: TelosB	Version: 44	Voltage (mV): 3861.084
+
+2017-07-25 11:11:02
+	 Detect a subset of targets: 	22531
+	Node 22531	Type: TelosB	Version: 44	Voltage (mV): 3889.1602
+
+2017-07-25 11:11:13
+	Stop command issued!
+
+2017-07-25 11:11:13
+	Connecting to nodes: 	22431	22531
+	Node 22431 is READY	Type: TelosB	Version: 44	Voltage (mV): 3862.3047
+	Node 22531 is READY	Type: TelosB	Version: 44	Voltage (mV): 3889.1602
+
+2017-07-25 11:11:18
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22431	22531
+
+2017-07-25 11:12:59
+	Stop command issued!
+
+2017-07-25 11:13:43
+	Stop command issued!
+
+2017-07-25 11:13:43
+	Connecting to nodes: 	22331
+	Node 22331 is READY	Type: TelosB	Version: 44	Voltage (mV): 3896.4844
+
+2017-07-25 11:13:48
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22331
+
+2017-07-25 11:16:01
+	Stop command issued!
+
+2017-07-25 11:16:11
+	 Detect a subset of targets: 	22331
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3901.3672
+
+2017-07-25 11:17:22
+	 Detect a subset of targets: 	62031	62131	62231
+	Node 62231	Type: TelosB	Version: 44	Voltage (mV): 2537.8418
+	Node 62131	Type: TelosB	Version: 44	Voltage (mV): 2528.0762
+
+2017-07-25 11:17:43
+	 Detect a subset of targets: 	62031
+	Node 62031	Type: TelosB	Version: 44	Voltage (mV): 3695.0684
+
+2017-07-25 11:17:51
+	Stop command issued!
+
+2017-07-25 11:17:51
+	Connecting to nodes: 	62031
+	Node 62031 is READY	Type: TelosB	Version: 44	Voltage (mV): 3693.8477
+
+2017-07-25 11:17:56
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	62031
+
+2017-07-25 11:21:18
+	Stop command issued!
+
+2017-07-25 11:21:27
+	 Detect a subset of targets: 	62031
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3691.4062
+
+2017-07-25 11:21:52
+	 Detect a subset of targets: 	61931
+	Node 61931	Type: TelosB	Version: 44	Voltage (mV): 3833.0078
+
+2017-07-25 11:22:00
+	Stop command issued!
+
+2017-07-25 11:22:01
+	Connecting to nodes: 	61931
+	Node 61931 is READY	Type: TelosB	Version: 44	Voltage (mV): 3886.7188
+
+2017-07-25 11:22:12
+	Stop command issued!
+
+2017-07-25 11:22:16
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	61931
+
+2017-07-25 11:24:56
+	Stop command issued!
+
+2017-07-25 11:25:20
+	 Detect a subset of targets: 	61931
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3830.5664
+
+2017-07-25 11:26:12
+	Stop command issued!
+
+2017-07-25 11:26:13
+	Connecting to nodes: 	62131	62231
+	Node 62231 is READY	Type: TelosB	Version: 44	Voltage (mV): 3881.836
+	Node 62131 is READY	Type: TelosB	Version: 44	Voltage (mV): 3876.9531
+
+2017-07-25 11:26:17
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	62131	62231
+
+2017-07-25 11:28:06
+	Stop command issued!
+
+2017-07-25 11:28:13
+	 Detect a subset of targets: 	62131	62231
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3883.0566
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3880.6152
+
+2017-07-25 11:29:51
+	Detecting neighbors...
+	Node 61131	Type: TelosB	Version: 44	Voltage (mV): 3776.8555
+	Node 60631	Type: TelosB	Version: 44	Voltage (mV): 2542.7246
+	Node 61731	Type: TelosB	Version: 44	Voltage (mV): 3735.3516
+	Node 61831	Type: TelosB	Version: 44	Voltage (mV): 3872.0703
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2170.0
+	Node 60731	Type: TelosB	Version: 44	Voltage (mV): 3715.8203
+	Node 61331	Type: TelosB	Version: 44	Voltage (mV): 3696.289
+	Node 61231	Type: TelosB	Version: 44	Voltage (mV): 3583.9844
+	Node 61531	Type: TelosB	Version: 44	Voltage (mV): 3845.2148
+	Node 60431	Type: TelosB	Version: 44	Voltage (mV): 3793.9453
+	Node 60331	Type: TelosB	Version: 44	Voltage (mV): 3714.5996
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2089.0
+	Node 60531	Type: TelosB	Version: 44	Voltage (mV): 3450.9277
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3875.7324
+
+2017-07-25 11:30:28
+	 Detect a subset of targets: 	61331	61431	61531
+
+2017-07-25 11:30:48
+	Exit Mobile Deluge...
+
+2017-07-25 11:31:07
+	 Detect a subset of targets: 	61331	61431	61531
+	Node 61531	Type: TelosB	Version: 44	Voltage (mV): 3856.2012
+	Node 61431	Type: TelosB	Version: 44	Voltage (mV): 3703.6133
+	Node 61331	Type: TelosB	Version: 44	Voltage (mV): 3696.289
+
+2017-07-25 11:31:21
+	Stop command issued!
+
+2017-07-25 11:31:21
+	Connecting to nodes: 	61331	61431	61531
+	Node 61531 is READY	Type: TelosB	Version: 44	Voltage (mV): 3858.6426
+	Node 61431 is READY	Type: TelosB	Version: 44	Voltage (mV): 3706.0547
+	Node 61331 is READY	Type: TelosB	Version: 44	Voltage (mV): 3696.289
+
+2017-07-25 11:31:26
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	61331	61431	61531
+
+2017-07-25 11:33:53
+	Stop command issued!
+
+2017-07-25 11:34:22
+	 Detect a subset of targets: 	61331	61431	61531
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3740.2344
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3856.2012
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3702.3926
+
+2017-07-25 11:35:03
+	 Detect a subset of targets: 	61631	61731	61831
+	Node 61831	Type: TelosB	Version: 44	Voltage (mV): 3892.8223
+	Node 61731	Type: TelosB	Version: 44	Voltage (mV): 3723.1445
+	Node 61631	Type: TelosB	Version: 44	Voltage (mV): 3732.9102
+
+2017-07-25 11:35:17
+	Stop command issued!
+
+2017-07-25 11:35:18
+	Connecting to nodes: 	61631	61731	61831
+	Node 61631 is READY	Type: TelosB	Version: 44	Voltage (mV): 3732.9102
+	Node 61831 is READY	Type: TelosB	Version: 44	Voltage (mV): 3865.9668
+	Node 61731 is READY	Type: TelosB	Version: 44	Voltage (mV): 3732.9102
+
+2017-07-25 11:35:23
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	61631	61731	61831
+
+2017-07-25 11:37:12
+	Stop command issued!
+
+2017-07-25 11:37:23
+	 Detect a subset of targets: 	61631	61731	61831
+	Node 61731	Type: TelosB	Version: 50	Voltage (mV): 3719.4824
+	Node 61631	Type: TelosB	Version: 50	Voltage (mV): 3729.248
+	Node 61831	Type: TelosB	Version: 50	Voltage (mV): 3891.6016
+
+2017-07-25 11:37:46
+	Detecting neighbors...
+	Node 60531	Type: TelosB	Version: 44	Voltage (mV): 3519.287
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2174.0
+	Node 61631	Type: TelosB	Version: 50	Voltage (mV): 3730.4688
+	Node 61231	Type: TelosB	Version: 44	Voltage (mV): 3586.4258
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3697.5098
+	Node 60431	Type: TelosB	Version: 44	Voltage (mV): 3790.2832
+	Node 61131	Type: TelosB	Version: 44	Voltage (mV): 3775.6348
+	Node 60931	Type: TelosB	Version: 44	Voltage (mV): 3682.8613
+	Node 61731	Type: TelosB	Version: 50	Voltage (mV): 3717.041
+	Node 60831	Type: TelosB	Version: 44	Voltage (mV): 3697.5098
+	Node 21501	Type: IRIS	Version: 43	Voltage (mV): 2536.0
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3701.1719
+	Node 31301	Type: IRIS	Version: 41	Voltage (mV): 3542.0
+
+2017-07-25 11:38:13
+	 Detect a subset of targets: 	60331	60431	60531	60631
+
+2017-07-25 11:38:46
+	 Detect a subset of targets: 	60331	60431	60531
+	Node 60431	Type: TelosB	Version: 44	Voltage (mV): 3791.504
+	Node 60531	Type: TelosB	Version: 44	Voltage (mV): 3514.4043
+	Node 60331	Type: TelosB	Version: 44	Voltage (mV): 3715.8203
+
+2017-07-25 11:39:10
+	Stop command issued!
+
+2017-07-25 11:39:10
+	Connecting to nodes: 	60331	60431	60531	60631
+	Node 60331 is READY	Type: TelosB	Version: 44	Voltage (mV): 3739.0137
+	Node 60531 is READY	Type: TelosB	Version: 44	Voltage (mV): 3518.0664
+	Node 60631 is READY	Type: TelosB	Version: 44	Voltage (mV): 3905.0293
+	Node 60431 is READY	Type: TelosB	Version: 44	Voltage (mV): 3790.2832
+
+2017-07-25 11:39:17
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	60331	60431	60531	60631
+
+2017-07-25 11:41:15
+	Stop command issued!
+
+2017-07-25 11:41:33
+	 Detect a subset of targets: 	60331	60431	60531	60631
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3457.0312
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3737.793
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3786.621
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3906.25
+
+2017-07-25 11:41:58
+	 Detect a subset of targets: 	60731	60831	60931
+	Node 60831	Type: TelosB	Version: 44	Voltage (mV): 3695.0684
+	Node 60931	Type: TelosB	Version: 44	Voltage (mV): 3682.8613
+	Node 60731	Type: TelosB	Version: 44	Voltage (mV): 3717.041
+
+2017-07-25 11:42:12
+	Stop command issued!
+
+2017-07-25 11:42:13
+	Connecting to nodes: 	60731	60831	60931
+	Node 60931 is READY	Type: TelosB	Version: 44	Voltage (mV): 3684.082
+	Node 60831 is READY	Type: TelosB	Version: 44	Voltage (mV): 3698.7305
+	Node 60731 is READY	Type: TelosB	Version: 44	Voltage (mV): 3717.041
+
+2017-07-25 11:42:17
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	60731	60831	60931
+
+2017-07-25 11:44:00
+	Stop command issued!
+
+2017-07-25 11:44:13
+	 Detect a subset of targets: 	60731	60831	60931
+	Node 60831	Type: TelosB	Version: 50	Voltage (mV): 3701.1719
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3682.8613
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3726.8066
+
+2017-07-25 11:44:34
+	Stop command issued!
+
+2017-07-25 11:44:34
+	Connecting to nodes: 	61131	61231
+	Node 61131 is READY	Type: TelosB	Version: 44	Voltage (mV): 3776.8555
+	Node 61231 is READY	Type: TelosB	Version: 44	Voltage (mV): 3597.412
+
+2017-07-25 11:44:39
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	61131	61231
+
+2017-07-25 11:46:23
+	Stop command issued!
+
+2017-07-25 11:46:31
+	 Detect a subset of targets: 	61131	61231
+	Node 61131	Type: TelosB	Version: 50	Voltage (mV): 3774.414
+
+2017-07-25 11:46:42
+	 Detect a subset of targets: 	31231
+
+2017-07-25 11:46:46
+	Exit Mobile Deluge...
+
+2017-07-25 11:46:59
+	 Detect a subset of targets: 	8
+
+2017-07-25 11:47:11
+	Exit Mobile Deluge...
+
+2017-07-25 11:47:19
+	Detecting neighbors...
+	Node 60001	Type: IRIS	Version: 41	Voltage (mV): 2525.0
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3718.2617
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2170.0
+	Node 61831	Type: TelosB	Version: 50	Voltage (mV): 3865.9668
+	Node 31301	Type: IRIS	Version: 41	Voltage (mV): 3542.0
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3516.8457
+	Node 61231	Type: TelosB	Version: 50	Voltage (mV): 3577.8809
+	Node 21501	Type: IRIS	Version: 43	Voltage (mV): 2536.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3903.8086
+	Node 60831	Type: TelosB	Version: 50	Voltage (mV): 3697.5098
+	Node 50431	Type: IRIS	Version: 41	Voltage (mV): 2234.0
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3697.5098
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3702.3926
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3853.7598
+	Node 61131	Type: TelosB	Version: 50	Voltage (mV): 3775.6348
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3714.5996
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3697.5098
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3787.8418
+
+2017-07-25 11:47:57
+	 Detect a subset of targets: 	60201
+
+2017-07-25 11:48:55
+	Detecting neighbors...
+	Node 21501	Type: IRIS	Version: 43	Voltage (mV): 2536.0
+	Node 60101	Type: IRIS	Version: 41	Voltage (mV): 3729.0
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3836.67
+	Node 61631	Type: TelosB	Version: 50	Voltage (mV): 3732.9102
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3906.25
+	Node 60001	Type: IRIS	Version: 41	Voltage (mV): 2525.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2174.0
+	Node 61131	Type: TelosB	Version: 50	Voltage (mV): 3773.1934
+	Node 61731	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3724.3652
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3680.42
+	Node 23031	Type: TelosB	Version: 44	Voltage (mV): 3702.3926
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3715.8203
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3714.5996
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3854.9805
+	Node 61831	Type: TelosB	Version: 50	Voltage (mV): 3863.5254
+
+2017-07-25 11:49:09
+	Exit Mobile Deluge...
+
+2017-07-25 11:49:39
+	 Detect a subset of targets: 	60101	60001
+	Node 60001	Type: IRIS	Version: 41	Voltage (mV): 2514.0
+	Node 60101	Type: IRIS	Version: 41	Voltage (mV): 3729.0
+
+2017-07-25 11:49:51
+	Stop command issued!
+
+2017-07-25 11:49:52
+	Connecting to nodes: 	60101	60001
+	Node 60101 is READY	Type: IRIS	Version: 41	Voltage (mV): 3729.0
+	Node 60001 is READY	Type: IRIS	Version: 41	Voltage (mV): 2519.0
+
+2017-07-25 11:50:09
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	60101	60001
+
+2017-07-25 11:52:39
+	Stop command issued!
+
+2017-07-25 11:52:46
+	 Detect a subset of targets: 	60101	60001
+	Node 60101	Type: IRIS	Version: 41	Voltage (mV): 3729.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2503.0
+
+2017-07-25 11:53:05
+	Stop command issued!
+
+2017-07-25 11:53:06
+	Connecting to nodes: 	60101
+	Node 60101 is READY	Type: IRIS	Version: 41	Voltage (mV): 3729.0
+
+2017-07-25 11:53:09
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	60101
+
+2017-07-25 11:55:19
+	Stop command issued!
+
+2017-07-25 11:55:25
+	 Detect a subset of targets: 	60101
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3717.0
+
+2017-07-25 11:55:47
+	Stop command issued!
+
+2017-07-25 11:55:47
+	Connecting to nodes: 	11401
+	Node 11401 is READY	Type: IRIS	Version: 41	Voltage (mV): 2166.0
+
+2017-07-25 11:55:52
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	11401
+
+2017-07-25 11:58:00
+	Stop command issued!
+
+2017-07-25 11:58:07
+	 Detect a subset of targets: 	11401
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2191.0
+
+2017-07-25 11:59:13
+	Detecting neighbors...
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2519.0
+	Node 30151	Type: MICAz	Version: 43	Voltage (mV): 3598.0
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3898.9258
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2141.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 31301	Type: IRIS	Version: 41	Voltage (mV): 3542.0
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3699.9512
+	Node 21501	Type: IRIS	Version: 43	Voltage (mV): 2536.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3906.25
+	Node 61631	Type: TelosB	Version: 50	Voltage (mV): 3731.6895
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 61831	Type: TelosB	Version: 50	Voltage (mV): 3861.084
+	Node 23131	Type: TelosB	Version: 44	Voltage (mV): 3741.455
+	Node 50531	Type: MICAz	Version: 41	Voltage (mV): 3651.0
+
+2017-07-25 11:59:50
+	Stop command issued!
+
+2017-07-25 11:59:50
+	Connecting to nodes: 	20301
+
+2017-07-25 12:00:05
+	Abort all the nodes: 
+	20301
+
+2017-07-25 12:01:36
+	Detecting neighbors...
+
+2017-07-25 12:01:43
+	Exit Mobile Deluge...
+
+2017-07-25 12:01:59
+	 Detect a subset of targets: 	21501	11801
+	Node 21501	Type: IRIS	Version: 43	Voltage (mV): 2536.0
+
+2017-07-25 12:02:12
+	Stop command issued!
+
+2017-07-25 12:02:12
+	Connecting to nodes: 	21501
+	Node 21501 is READY	Type: IRIS	Version: 43	Voltage (mV): 2536.0
+
+2017-07-25 12:02:19
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21501
+
+2017-07-25 12:04:23
+	Stop command issued!
+
+2017-07-25 12:05:25
+	 Detect a subset of targets: 	21501
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+
+2017-07-25 12:06:39
+	Detecting neighbors...
+	Node 50431	Type: IRIS	Version: 41	Voltage (mV): 3857.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3818.0
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2380.0
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3831.787
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3690.1855
+	Node 50031	Type: MICAz	Version: 41	Voltage (mV): 3619.0
+	Node 23031	Type: TelosB	Version: 44	Voltage (mV): 3703.6133
+	Node 23131	Type: TelosB	Version: 44	Voltage (mV): 3757.3242
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2212.0
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3516.8457
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3881.836
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3608.3984
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 2141.0
+
+2017-07-25 12:07:35
+	Exit Mobile Deluge...
+
+2017-07-25 12:07:47
+	Stop command issued!
+
+2017-07-25 12:07:50
+	Connecting to nodes: 	50431
+	Node 50431 is READY	Type: IRIS	Version: 41	Voltage (mV): 3857.0
+
+2017-07-25 12:07:56
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	50431
+
+2017-07-25 12:10:39
+	Stop command issued!
+
+2017-07-25 12:10:48
+	 Detect a subset of targets: 	50431
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+
+2017-07-25 12:11:52
+	Exit Mobile Deluge...
+
+2017-07-25 12:12:04
+	Stop command issued!
+
+2017-07-25 12:12:05
+	Connecting to nodes: 	11801
+	Node 11801 is READY	Type: IRIS	Version: 41	Voltage (mV): 3897.0
+
+2017-07-25 12:12:12
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	11801
+
+2017-07-25 12:14:18
+	Stop command issued!
+
+2017-07-25 12:14:22
+	 Detect a subset of targets: 	11801
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+
+2017-07-25 12:15:31
+	 Detect a subset of targets: 	50531	50331	50231	50131	50031
+	Node 50531	Type: MICAz	Version: 41	Voltage (mV): 3651.0
+	Node 50031	Type: MICAz	Version: 41	Voltage (mV): 3609.0
+	Node 50231	Type: MICAz	Version: 41	Voltage (mV): 2413.0
+	Node 23031	Type: TelosB	Version: 44	Voltage (mV): 3703.6133
+	Node 23131	Type: TelosB	Version: 44	Voltage (mV): 3740.2344
+
+2017-07-25 12:16:51
+	Exit Mobile Deluge...
+
+2017-07-25 12:17:10
+	Stop command issued!
+
+2017-07-25 12:17:10
+	Connecting to nodes: 	50531	50031
+	Node 50531 is READY	Type: MICAz	Version: 41	Voltage (mV): 3651.0
+	Node 50031 is READY	Type: MICAz	Version: 41	Voltage (mV): 3651.0
+
+2017-07-25 12:17:16
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	50531	50031
+
+2017-07-25 12:18:42
+	Stop command issued!
+
+2017-07-25 12:18:49
+	 Detect a subset of targets: 	50531	50031
+	Node 50531	Type: MICAz	Version: 41	Voltage (mV): 3640.0
+	Node 50031	Type: MICAz	Version: 41	Voltage (mV): 3738.0
+
+2017-07-25 12:19:07
+	Stop command issued!
+
+2017-07-25 12:19:07
+	Connecting to nodes: 	50531
+	Node 50531 is READY	Type: MICAz	Version: 41	Voltage (mV): 3640.0
+
+2017-07-25 12:19:11
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	50531
+
+2017-07-25 12:20:30
+	Stop command issued!
+
+2017-07-25 12:20:36
+	 Detect a subset of targets: 	50531
+	Node 50531	Type: MICAz	Version: 41	Voltage (mV): 3630.0
+
+2017-07-25 12:22:51
+	 Detect a subset of targets: 	23031	23131
+	Node 23031	Type: TelosB	Version: 44	Voltage (mV): 3702.3926
+	Node 23131	Type: TelosB	Version: 44	Voltage (mV): 3753.662
+
+2017-07-25 12:23:00
+	Stop command issued!
+
+2017-07-25 12:23:00
+	Connecting to nodes: 	23031	23131
+	Node 23131 is READY	Type: TelosB	Version: 44	Voltage (mV): 3740.2344
+	Node 23031 is READY	Type: TelosB	Version: 44	Voltage (mV): 3701.1719
+
+2017-07-25 12:23:04
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	23031	23131
+
+2017-07-25 12:25:14
+	Stop command issued!
+
+2017-07-25 12:25:37
+	 Detect a subset of targets: 	23031	23131
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3739.0137
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3699.9512
+
+2017-07-25 12:25:47
+	 Detect a subset of targets: 	11701
+	Node 11701	Type: IRIS	Version: 41	Voltage (mV): 4037.0
+
+2017-07-25 12:26:22
+	Stop command issued!
+
+2017-07-25 12:26:22
+	Connecting to nodes: 	11701
+	Node 11701 is READY	Type: IRIS	Version: 41	Voltage (mV): 4037.0
+
+2017-07-25 12:26:30
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	11701
+
+2017-07-25 12:28:36
+	Stop command issued!
+
+2017-07-25 12:28:42
+	 Detect a subset of targets: 	11701
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4037.0
+
+2017-07-25 12:29:48
+	Detecting neighbors...
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3831.787
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3848.877
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2380.0
+	Node 31301	Type: IRIS	Version: 41	Voltage (mV): 3542.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3906.25
+	Node 50531	Type: MICAz	Version: 41	Voltage (mV): 3640.0
+	Node 22731	Type: TelosB	Version: 44	Voltage (mV): 3607.1777
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3701.1719
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2479.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2536.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2212.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 22831	Type: TelosB	Version: 44	Voltage (mV): 3776.8555
+	Node 22931	Type: TelosB	Version: 44	Voltage (mV): 3723.1445
+
+2017-07-25 12:30:55
+	Stop command issued!
+
+2017-07-25 12:30:55
+	Connecting to nodes: 	22731	22831	22931
+	Node 22831 is READY	Type: TelosB	Version: 44	Voltage (mV): 3775.6348
+	Node 22931 is READY	Type: TelosB	Version: 44	Voltage (mV): 3721.9238
+	Node 22731 is READY	Type: TelosB	Version: 44	Voltage (mV): 3620.6055
+
+2017-07-25 12:31:03
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22731	22831	22931
+
+2017-07-25 12:33:38
+	Stop command issued!
+
+2017-07-25 12:33:45
+	 Detect a subset of targets: 	22731	22831	22931
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3771.9727
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3599.8535
+
+2017-07-25 12:33:55
+	Detecting neighbors...
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2332.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4037.0
+	Node 20711	Type: IRIS	Version: 41	Voltage (mV): 3818.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3780.5176
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3719.4824
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3880.6152
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3742.6758
+	Node 30031	Type: IRIS	Version: 41	Voltage (mV): 2637.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3797.6074
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2212.0
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3865.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3721.9238
+	Node 22231	Type: TelosB	Version: 50	Voltage (mV): 3857.4219
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3691.4062
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+
+2017-07-25 12:34:33
+	Stop command issued!
+
+2017-07-25 12:34:33
+	Connecting to nodes: 	20711
+
+2017-07-25 12:34:42
+	Exit Mobile Deluge...
+
+2017-07-25 12:34:58
+	Stop command issued!
+
+2017-07-25 12:34:58
+	Connecting to nodes: 	20711
+	Node 20711 is READY	Type: IRIS	Version: 41	Voltage (mV): 3818.0
+
+2017-07-25 12:35:01
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20711
+
+2017-07-25 12:35:12
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20711
+
+2017-07-25 12:35:16
+	Stop command issued!
+
+2017-07-25 12:35:18
+	Abort all the nodes: 
+	20711
+
+2017-07-25 12:35:32
+	Abort the nodes: 
+	20711
+
+2017-07-25 12:35:41
+	Stop command issued!
+
+2017-07-25 12:35:41
+	Connecting to nodes: 	20711
+	Node 20711 is READY	Type: IRIS	Version: 41	Voltage (mV): 3831.0
+
+2017-07-25 12:35:46
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20711
+
+2017-07-25 12:37:53
+	Stop command issued!
+
+2017-07-25 12:37:57
+	 Detect a subset of targets: 	20711
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+
+2017-07-25 14:13:49
+	Exit Mobile Deluge...
+
+2017-07-25 14:15:21
+	Detecting neighbors...
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3942.871
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3787.8418
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3784.1797
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3879.3945
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3725.586
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2489.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3693.8477
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3797.6074
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3607.1777
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3841.0
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3825.6836
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2380.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3742.6758
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2217.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3913.5742
+
+2017-07-25 14:15:54
+	Detecting neighbors...
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2385.0
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3885.498
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3841.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3742.6758
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3833.0078
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 3966.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4022.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2217.0
+	Node 20851	Type: MICAz	Version: 41	Voltage (mV): 2178.0
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2489.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3782.959
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3607.1777
+
+2017-07-25 14:16:29
+	Stop command issued!
+
+2017-07-25 14:16:30
+	Connecting to nodes: 	22631
+
+2017-07-25 14:16:49
+	Abort all the nodes: 
+	22631
+
+2017-07-25 14:16:54
+	Detecting neighbors...
+
+2017-07-25 14:17:12
+	Exit Mobile Deluge...
+
+2017-07-25 14:17:14
+	Detecting neighbors...
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3654.7852
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3605.957
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2212.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4022.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3879.3945
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2489.0
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2380.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3741.455
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3703.6133
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3774.414
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3841.0
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3829.3457
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3881.836
+	Node 30031	Type: IRIS	Version: 41	Voltage (mV): 2637.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3798.8281
+
+2017-07-25 14:19:16
+	Stop command issued!
+
+2017-07-25 14:19:16
+	Connecting to nodes: 	22631
+
+2017-07-25 14:19:35
+	Abort the nodes: 
+	22631
+
+2017-07-25 14:19:44
+	Stop command issued!
+
+2017-07-25 14:19:44
+	Connecting to nodes: 	22631
+
+2017-07-25 14:19:58
+	Abort all the nodes: 
+	22631
+
+2017-07-25 14:20:06
+	Exit Mobile Deluge...
+
+2017-07-25 14:20:10
+	Detecting neighbors...
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 22631	Type: TelosB	Version: 44	Voltage (mV): 3936.7676
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2519.0
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3912.3535
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2489.0
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3607.1777
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3848.877
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3774.414
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3669.4336
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4022.0
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3737.793
+
+2017-07-25 14:20:25
+	Stop command issued!
+
+2017-07-25 14:20:25
+	Connecting to nodes: 	22631
+	Node 22631 is READY	Type: TelosB	Version: 44	Voltage (mV): 3939.209
+
+2017-07-25 14:20:31
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22631
+
+2017-07-25 14:22:15
+	Stop command issued!
+
+2017-07-25 14:22:23
+	 Detect a subset of targets: 	22631
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3937.9883
+
+2017-07-25 14:23:13
+	Detecting neighbors...
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2489.0
+	Node 20851	Type: MICAz	Version: 41	Voltage (mV): 2170.0
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3669.4336
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3879.3945
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3800.0488
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3937.9883
+	Node 22031	Type: TelosB	Version: 50	Voltage (mV): 3879.3945
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3721.9238
+	Node 31301	Type: IRIS	Version: 41	Voltage (mV): 3542.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3872.0703
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3743.8965
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+
+2017-07-25 14:24:11
+	Stop command issued!
+
+2017-07-25 14:24:11
+	Connecting to nodes: 	20301
+
+2017-07-25 14:24:28
+	Detecting neighbors...
+
+2017-07-25 14:24:34
+	Exit Mobile Deluge...
+
+2017-07-25 14:24:44
+	Detecting neighbors...
+
+2017-07-25 14:25:09
+	Exit Mobile Deluge...
+
+2017-07-25 14:25:21
+	Stop command issued!
+
+2017-07-25 14:25:23
+	Connecting to nodes: 	20301
+	Node 20301 is READY	Type: IRIS	Version: 43	Voltage (mV): 2525.0
+
+2017-07-25 14:25:28
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20301
+
+2017-07-25 14:28:13
+	Stop command issued!
+
+2017-07-25 14:28:22
+	 Detect a subset of targets: 	20301
+	Node 20301	Type: IRIS	Version: 43	Voltage (mV): 2519.0
+
+2017-07-25 14:28:55
+	Stop command issued!
+
+2017-07-25 14:28:55
+	Connecting to nodes: 	20301
+
+2017-07-25 14:29:09
+	Exit Mobile Deluge...
+
+2017-07-25 14:29:23
+	Stop command issued!
+
+2017-07-25 14:29:25
+	Connecting to nodes: 	20301
+	Node 20301 is READY	Type: IRIS	Version: 43	Voltage (mV): 2519.0
+
+2017-07-25 14:29:31
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20301
+
+2017-07-25 14:31:47
+	Stop command issued!
+
+2017-07-25 14:31:55
+	 Detect a subset of targets: 	20301
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2519.0
+
+2017-07-25 14:32:08
+	Detecting neighbors...
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3651.123
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3774.414
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2385.0
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 2489.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3796.3867
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2212.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3742.6758
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3936.7676
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2519.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3879.3945
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3703.6133
+	Node 40231	Type: TelosB	Version: 41	Voltage (mV): 2537.8418
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3693.8477
+
+2017-07-25 14:32:37
+	Detecting neighbors...
+
+2017-07-25 14:32:47
+	Exit Mobile Deluge...
+
+2017-07-25 14:32:52
+	Detecting neighbors...
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3847.6562
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3841.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3879.3945
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3939.209
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2208.0
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3607.1777
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3734.1309
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3830.5664
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3870.8496
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3912.3535
+	Node 30031	Type: IRIS	Version: 41	Voltage (mV): 2637.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2542.0
+
+2017-07-25 14:33:24
+	Stop command issued!
+
+2017-07-25 14:33:54
+	Detecting neighbors...
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 22531	Type: TelosB	Version: 50	Voltage (mV): 3884.2773
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 30031	Type: IRIS	Version: 41	Voltage (mV): 2637.0
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 31301	Type: IRIS	Version: 41	Voltage (mV): 3531.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3879.3945
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3797.6074
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4022.0
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2380.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3775.6348
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 3966.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2212.0
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3841.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3742.6758
+
+2017-07-25 14:34:32
+	Stop command issued!
+
+2017-07-25 14:34:32
+	Connecting to nodes: 	30031
+
+2017-07-25 14:34:44
+	Exit Mobile Deluge...
+
+2017-07-25 14:35:01
+	Stop command issued!
+
+2017-07-25 14:35:01
+	Connecting to nodes: 	30031
+
+2017-07-25 14:35:16
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	30031
+
+2017-07-25 14:37:22
+	Stop command issued!
+
+2017-07-25 14:37:29
+	 Detect a subset of targets: 	30031
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+
+2017-07-25 14:38:03
+	 Detect a subset of targets: 	31301	11601
+	Node 31301	Type: IRIS	Version: 41	Voltage (mV): 3542.0
+	Node 11601	Type: IRIS	Version: 41	Voltage (mV): 3966.0
+
+2017-07-25 14:38:16
+	Stop command issued!
+
+2017-07-25 14:38:16
+	Connecting to nodes: 	31301	11601
+	Node 11601 is READY	Type: IRIS	Version: 41	Voltage (mV): 3966.0
+	Node 31301 is READY	Type: IRIS	Version: 41	Voltage (mV): 3531.0
+
+2017-07-25 14:38:21
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	31301	11601
+
+2017-07-25 14:40:44
+	Stop command issued!
+
+2017-07-25 14:40:53
+	 Detect a subset of targets: 	31301	11601
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3966.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+
+2017-07-25 14:41:01
+	Detecting neighbors...
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3841.0
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3830.5664
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2376.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3774.414
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4022.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3797.6074
+	Node 50031	Type: MICAz	Version: 41	Voltage (mV): 3783.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3900.1465
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3704.834
+	Node 22531	Type: TelosB	Version: 50	Voltage (mV): 3881.836
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2637.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3865.9668
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3721.9238
+
+2017-07-25 14:42:07
+	Detecting neighbors...
+
+2017-07-25 14:42:13
+	Exit Mobile Deluge...
+	Node 50531	Type: MICAz	Version: 41	Voltage (mV): 3651.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2217.0
+	Node 50031	Type: MICAz	Version: 41	Voltage (mV): 3772.0
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2380.0
+
+2017-07-25 14:42:17
+	Detecting neighbors...
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3717.041
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3524.17
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+	Node 22531	Type: TelosB	Version: 50	Voltage (mV): 3892.8223
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3703.6133
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3966.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3881.836
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4022.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3671.875
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+
+2017-07-25 16:04:58
+	Detecting neighbors...
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 30151	Type: MICAz	Version: 43	Voltage (mV): 3598.0
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3835.4492
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3587.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3696.289
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3730.4688
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3902.588
+	Node 30651	Type: MICAz	Version: 42	Voltage (mV): 2499.0
+	Node 30551	Type: MICAz	Version: 42	Voltage (mV): 2489.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2221.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3742.6758
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2536.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3719.4824
+	Node 61731	Type: TelosB	Version: 50	Voltage (mV): 3725.586
+
+2017-07-25 16:06:01
+	Stop command issued!
+
+2017-07-25 16:06:11
+	Stop command issued!
+
+2017-07-25 16:06:11
+	Connecting to nodes: 	30151
+	Node 30151 is READY	Type: MICAz	Version: 43	Voltage (mV): 3609.0
+
+2017-07-25 16:06:16
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	30151
+
+2017-07-25 16:07:54
+	Stop command issued!
+
+2017-07-25 16:08:03
+	 Detect a subset of targets: 	30151
+	Node 30151	Type: MICAz	Version: 43	Voltage (mV): 3598.0
+
+2017-07-25 16:10:12
+	Detecting neighbors...
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 30651	Type: MICAz	Version: 42	Voltage (mV): 2494.0
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3686.5234
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3994.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3852.539
+	Node 50231	Type: MICAz	Version: 41	Voltage (mV): 2403.0
+	Node 60831	Type: TelosB	Version: 50	Voltage (mV): 3701.1719
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 30551	Type: MICAz	Version: 42	Voltage (mV): 2489.0
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3743.8965
+	Node 30151	Type: MICAz	Version: 43	Voltage (mV): 3598.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2221.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2536.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3587.0
+	Node 255	Type: MICAz	Version: 41	Voltage (mV): 2285.0
+
+2017-07-25 16:10:24
+	Stop command issued!
+
+2017-07-25 16:10:24
+	Connecting to nodes: 	30151
+
+2017-07-25 16:10:43
+	 Detect a subset of targets: 	30151
+
+2017-07-25 16:11:13
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	30151
+
+2017-07-25 16:13:23
+	Stop command issued!
+
+2017-07-25 16:13:27
+	 Detect a subset of targets: 	30151
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+
+2017-07-25 16:13:35
+	Detecting neighbors...
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3699.9512
+	Node 255	Type: MICAz	Version: 41	Voltage (mV): 2268.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+	Node 30551	Type: MICAz	Version: 42	Voltage (mV): 2489.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3870.8496
+	Node 50231	Type: MICAz	Version: 41	Voltage (mV): 2413.0
+	Node 50031	Type: MICAz	Version: 41	Voltage (mV): 3772.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3918.457
+	Node 60831	Type: TelosB	Version: 50	Voltage (mV): 3699.9512
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 31251	Type: MICAz	Version: 43	Voltage (mV): 2362.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 50531	Type: MICAz	Version: 41	Voltage (mV): 3651.0
+	Node 61731	Type: TelosB	Version: 50	Voltage (mV): 3724.3652
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+
+2017-07-25 16:15:08
+	 Detect a subset of targets: 	50531	50031
+
+2017-07-25 16:15:18
+	Exit Mobile Deluge...
+
+2017-07-25 16:15:31
+	 Detect a subset of targets: 	50531	50031
+	Node 50031	Type: MICAz	Version: 41	Voltage (mV): 3772.0
+
+2017-07-25 16:15:47
+	Detecting neighbors...
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 50231	Type: MICAz	Version: 41	Voltage (mV): 2413.0
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3702.3926
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3742.6758
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3609.0
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3729.248
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3745.1172
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3792.7246
+	Node 61131	Type: TelosB	Version: 50	Voltage (mV): 3780.5176
+	Node 30651	Type: MICAz	Version: 42	Voltage (mV): 2494.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2536.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3869.629
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3966.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2221.0
+
+2017-07-25 16:16:28
+	 Detect a subset of targets: 	50031	50531
+
+2017-07-25 16:16:40
+	Exit Mobile Deluge...
+
+2017-07-25 16:16:47
+	Stop command issued!
+
+2017-07-25 16:16:53
+	 Detect a subset of targets: 	50031	50531
+	Node 50031	Type: MICAz	Version: 41	Voltage (mV): 3772.0
+	Node 50531	Type: MICAz	Version: 41	Voltage (mV): 3640.0
+
+2017-07-25 16:17:05
+	Stop command issued!
+
+2017-07-25 16:17:05
+	Connecting to nodes: 	50031	50531
+	Node 50031 is READY	Type: MICAz	Version: 41	Voltage (mV): 3772.0
+	Node 50531 is READY	Type: MICAz	Version: 41	Voltage (mV): 3651.0
+
+2017-07-25 16:17:14
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	50031	50531
+
+2017-07-25 16:19:33
+	Stop command issued!
+
+2017-07-25 16:19:39
+	 Detect a subset of targets: 	50031	50531
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3772.0
+	Node 50531	Type: MICAz	Version: 50	Voltage (mV): 3630.0
+
+2017-07-25 16:19:51
+	Detecting neighbors...
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3772.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3732.9102
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3587.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3966.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2542.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3743.8965
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3726.8066
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3525.3906
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3920.8984
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2217.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+
+2017-07-25 16:21:28
+	Stop command issued!
+
+2017-07-25 16:21:31
+	Detecting neighbors...
+
+2017-07-25 16:21:49
+	Detecting neighbors...
+
+2017-07-25 16:21:56
+	Exit Mobile Deluge...
+
+2017-07-25 16:22:04
+	Detecting neighbors...
+	Node 30551	Type: MICAz	Version: 42	Voltage (mV): 2489.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 30651	Type: MICAz	Version: 42	Voltage (mV): 2494.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3772.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3758.545
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2217.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3732.9102
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3719.4824
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3876.9531
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3897.705
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3697.5098
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3527.832
+
+2017-07-25 16:22:51
+	Stop command issued!
+
+2017-07-25 16:22:56
+	Detecting neighbors...
+
+2017-07-25 16:23:11
+Try to abort all nodes, but no nodes are in the memory, maybe the gateway is just started.
+
+2017-07-25 16:23:57
+	Detecting neighbors...
+
+2017-07-25 16:24:06
+	Exit Mobile Deluge...
+
+2017-07-25 16:24:14
+	Detecting neighbors...
+
+2017-07-25 16:24:36
+	Detecting neighbors...
+
+2017-07-25 16:24:49
+	Exit Mobile Deluge...
+
+2017-07-25 16:24:57
+	Detecting neighbors...
+	Node 30551	Type: MICAz	Version: 42	Voltage (mV): 2484.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 50231	Type: MICAz	Version: 41	Voltage (mV): 2413.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3772.0
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3540.039
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3587.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3900.1465
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3697.5098
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3835.4492
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3719.4824
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+	Node 30651	Type: MICAz	Version: 42	Voltage (mV): 2494.0
+
+2017-07-25 16:36:11
+	Detecting neighbors...
+
+2017-07-25 16:39:30
+	Exit Mobile Deluge...
+
+2017-07-25 16:40:09
+	Stop command issued!
+
+2017-07-25 16:40:09
+	Connecting to nodes: 	50131	50231	50331
+	Node 50331 is READY	Type: MICAz	Version: 41	Voltage (mV): 3853.0
+	Node 50231 is READY	Type: MICAz	Version: 41	Voltage (mV): 3889.0
+
+2017-07-25 16:40:32
+	Abort all the nodes: 
+	50131	50231	50331
+
+2017-07-25 16:40:50
+	Stop command issued!
+
+2017-07-25 16:40:50
+	Connecting to nodes: 	50131	50231	50331
+	Node 50331 is READY	Type: MICAz	Version: 41	Voltage (mV): 3818.0
+	Node 50231 is READY	Type: MICAz	Version: 41	Voltage (mV): 3889.0
+
+2017-07-25 16:41:10
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	50131	50231	50331
+
+2017-07-25 16:44:30
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	50131	50231	50331
+
+2017-07-25 16:44:34
+	Stop command issued!
+
+2017-07-25 16:44:46
+	 Detect a subset of targets: 	50231	50331
+	Node 50331	Type: MICAz	Version: 41	Voltage (mV): 3853.0
+	Node 50231	Type: MICAz	Version: 41	Voltage (mV): 3889.0
+
+2017-07-25 16:45:10
+	Stop command issued!
+
+2017-07-25 16:45:13
+	Exit Mobile Deluge...
+
+2017-07-25 16:45:51
+	Stop command issued!
+
+2017-07-25 16:45:51
+	Connecting to nodes: 	50231
+	Node 50231 is READY	Type: MICAz	Version: 41	Voltage (mV): 3889.0
+
+2017-07-25 16:45:56
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	50231
+
+2017-07-25 16:48:17
+	Stop command issued!
+
+2017-07-25 16:48:23
+	 Detect a subset of targets: 	50231
+	Node 50231	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+
+2017-07-25 16:48:40
+	Stop command issued!
+
+2017-07-25 16:48:40
+	Connecting to nodes: 	50331
+	Node 50331 is READY	Type: MICAz	Version: 41	Voltage (mV): 3865.0
+
+2017-07-25 16:48:45
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	50331
+
+2017-07-25 16:51:27
+	Stop command issued!
+
+2017-07-25 16:51:33
+	 Detect a subset of targets: 	50331
+	Node 50331	Type: MICAz	Version: 41	Voltage (mV): 3865.0
+
+2017-07-25 16:51:56
+	Exit Mobile Deluge...
+
+2017-07-25 16:52:31
+	Stop command issued!
+
+2017-07-25 16:52:31
+	Connecting to nodes: 	50331
+	Node 50331 is READY	Type: MICAz	Version: 41	Voltage (mV): 3865.0
+
+2017-07-25 16:52:40
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	50331
+
+2017-07-25 16:54:53
+	Stop command issued!
+
+2017-07-25 16:54:59
+	 Detect a subset of targets: 	50331
+	Node 50331	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+
+2017-07-25 16:56:21
+	Detecting neighbors...
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 30551	Type: MICAz	Version: 42	Voltage (mV): 3889.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 30651	Type: MICAz	Version: 42	Voltage (mV): 3889.0
+	Node 255	Type: MICAz	Version: 41	Voltage (mV): 2277.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3707.2754
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3772.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2542.0
+	Node 50331	Type: MICAz	Version: 50	Voltage (mV): 3865.0
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3845.2148
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3746.338
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3836.67
+
+2017-07-25 16:57:32
+	Exit Mobile Deluge...
+
+2017-07-25 16:57:57
+	Stop command issued!
+
+2017-07-25 16:57:58
+	Connecting to nodes: 	30551	30651
+	Node 30551 is READY	Type: MICAz	Version: 42	Voltage (mV): 3889.0
+	Node 30651 is READY	Type: MICAz	Version: 42	Voltage (mV): 3889.0
+
+2017-07-25 16:58:08
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	30551	30651
+
+2017-07-25 17:00:20
+	Stop command issued!
+
+2017-07-25 17:00:37
+	 Detect a subset of targets: 	30651	30551
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3889.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3889.0
+
+2017-07-25 17:00:56
+	 Detect a subset of targets: 	31251
+
+2017-07-25 17:01:12
+	Detecting neighbors...
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3702.3926
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2542.0
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3792.7246
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3889.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3704.834
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2217.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3717.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3696.289
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3587.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3889.0
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3741.455
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3852.539
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3772.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3901.3672
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3721.9238
+
+2017-07-25 17:01:43
+	Exit Mobile Deluge...
+
+2017-07-25 17:01:52
+	 Detect a subset of targets: 	31251
+
+2017-07-25 17:02:34
+	Detecting neighbors...
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2542.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3889.0
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3889.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2217.0
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3790.2832
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3587.0
+	Node 255	Type: MICAz	Version: 41	Voltage (mV): 2281.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3783.0
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3719.4824
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3609.0
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3842.7734
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3706.0547
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3730.4688
+
+2017-07-25 17:04:27
+	Detecting neighbors...
+
+2017-07-25 17:04:32
+	Exit Mobile Deluge...
+
+2017-07-25 17:04:37
+	Detecting neighbors...
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3889.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3772.0
+	Node 11401	Type: IRIS	Version: 41	Voltage (mV): 2221.0
+	Node 61131	Type: TelosB	Version: 50	Voltage (mV): 3778.0762
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3696.289
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3900.1465
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3730.4688
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3852.539
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3889.0
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3840.332
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3708.496
+
+2017-07-25 17:06:49
+	Stop command issued!
+
+2017-07-25 17:06:49
+	Connecting to nodes: 	31251
+
+2017-07-25 17:06:58
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	31251
+
+2017-07-25 17:07:14
+	Stop command issued!
+
+2017-07-25 17:07:17
+	Abort all the nodes: 
+	31251
+
+2017-07-25 17:07:24
+	 Detect a subset of targets: 	31251
+
+2017-07-25 17:07:32
+	Exit Mobile Deluge...
+
+2017-07-25 17:07:46
+	 Detect a subset of targets: 	31251
+	Node 31251	Type: MICAz	Version: 43	Voltage (mV): 3938.0
+
+2017-07-25 17:07:56
+	Stop command issued!
+
+2017-07-25 17:07:56
+	Connecting to nodes: 	31251
+	Node 31251 is READY	Type: MICAz	Version: 43	Voltage (mV): 3938.0
+
+2017-07-25 17:08:01
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	31251
+
+2017-07-25 17:10:09
+	Stop command issued!
+
+2017-07-25 17:10:22
+	 Detect a subset of targets: 	31251
+	Node 31251	Type: MICAz	Version: 50	Voltage (mV): 3925.0
+
+2017-07-25 17:11:46
+	Exit Mobile Deluge...
+
+2017-07-25 17:13:27
+	Exit Mobile Deluge...
+
+2017-07-25 17:13:37
+	 Detect a subset of targets: 	11401
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+
+2017-07-25 17:22:09
+	Exit Mobile Deluge...
+
+2017-07-25 17:22:26
+	Stop command issued!
+
+2017-07-25 17:22:28
+	Detecting neighbors...
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3706.0547
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2385.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3587.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3818.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 22531	Type: TelosB	Version: 50	Voltage (mV): 3884.2773
+	Node 21341	Type: MICAz	Version: 38	Voltage (mV): 3384.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 22231	Type: TelosB	Version: 50	Voltage (mV): 3856.2012
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3825.6836
+	Node 20851	Type: MICAz	Version: 41	Voltage (mV): 3950.0
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3541.2598
+
+2017-07-25 17:22:40
+	Stop command issued!
+
+2017-07-25 17:22:40
+	Connecting to nodes: 	20851
+
+2017-07-25 17:22:48
+	Abort all the nodes: 
+	20851
+
+2017-07-25 17:22:58
+	Stop command issued!
+
+2017-07-25 17:22:58
+	Connecting to nodes: 	20851
+
+2017-07-25 17:23:11
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20851
+
+2017-07-25 17:23:19
+	Stop command issued!
+
+2017-07-25 17:23:22
+	Abort all the nodes: 
+	20851
+
+2017-07-25 17:23:31
+	Stop command issued!
+
+2017-07-25 17:23:31
+	Connecting to nodes: 	20851
+
+2017-07-25 17:23:36
+	Abort all the nodes: 
+	20851
+
+2017-07-25 17:23:43
+	Exit Mobile Deluge...
+
+2017-07-25 17:23:51
+	Abort the nodes: 
+	20851
+
+2017-07-25 17:24:03
+	 Detect a subset of targets: 	20851
+	Node 20851	Type: MICAz	Version: 41	Voltage (mV): 3950.0
+
+2017-07-25 17:24:12
+	Stop command issued!
+
+2017-07-25 17:24:12
+	Connecting to nodes: 	20851
+	Node 20851 is READY	Type: MICAz	Version: 41	Voltage (mV): 3950.0
+
+2017-07-25 17:24:16
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20851
+
+2017-07-25 17:26:38
+	Stop command issued!
+
+2017-07-25 17:26:56
+	 Detect a subset of targets: 	20851	20841
+	Node 20851	Type: MICAz	Version: 50	Voltage (mV): 3950.0
+
+2017-07-25 17:27:29
+	Detecting neighbors...
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3869.629
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3526.6113
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2631.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3697.5098
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3933.1055
+	Node 22431	Type: TelosB	Version: 50	Voltage (mV): 3857.4219
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3889.1602
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3952.0
+	Node 20851	Type: MICAz	Version: 50	Voltage (mV): 3950.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3759.7656
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3796.3867
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+
+2017-07-25 17:34:44
+	 Detect a subset of targets: 	21331
+
+2017-07-25 17:34:52
+	Exit Mobile Deluge...
+
+2017-07-25 17:35:01
+	 Detect a subset of targets: 	21331
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 4001.0
+
+2017-07-25 17:35:06
+	Stop command issued!
+
+2017-07-25 17:35:07
+	Connecting to nodes: 	21331
+
+2017-07-25 17:35:14
+	Abort all the nodes: 
+	21331
+
+2017-07-25 17:35:25
+	 Detect a subset of targets: 	21331
+	Node 21331	Type: MICAz	Version: 43	Voltage (mV): 4001.0
+
+2017-07-25 17:35:36
+	Stop command issued!
+
+2017-07-25 17:35:36
+	Connecting to nodes: 	21331
+	Node 21331 is READY	Type: MICAz	Version: 43	Voltage (mV): 4001.0
+
+2017-07-25 17:35:40
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21331
+
+2017-07-25 17:38:02
+	Stop command issued!
+
+2017-07-25 17:38:10
+	 Detect a subset of targets: 	21341
+	Node 21341	Type: MICAz	Version: 38	Voltage (mV): 3375.0
+
+2017-07-25 17:38:20
+	 Detect a subset of targets: 	21331
+	Node 21331	Type: MICAz	Version: 50	Voltage (mV): 4001.0
+
+2017-07-25 17:38:39
+	 Detect a subset of targets: 	20841
+	Node 20841	Type: MICAz	Version: 38	Voltage (mV): 3162.0
+
+2017-07-25 17:38:44
+	Exit Mobile Deluge...
+
+2017-07-25 18:04:17
+	Detecting neighbors...
+	Node 22531	Type: TelosB	Version: 50	Voltage (mV): 3891.6016
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3671.875
+	Node 40231	Type: TelosB	Version: 41	Voltage (mV): 3769.5312
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 3729.0
+	Node 40031	Type: TelosB	Version: 41	Voltage (mV): 3797.6074
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 40131	Type: MICAz	Version: 42	Voltage (mV): 3749.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3845.2148
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3933.1055
+	Node 22231	Type: TelosB	Version: 50	Voltage (mV): 3853.7598
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3894.043
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3610.8398
+	Node 22431	Type: TelosB	Version: 50	Voltage (mV): 3854.9805
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3843.9941
+
+2017-07-25 18:04:49
+	Stop command issued!
+
+2017-07-25 18:04:50
+	Connecting to nodes: 	40231	40031
+
+2017-07-25 18:05:16
+	Stop command issued!
+
+2017-07-25 18:05:17
+	Connecting to nodes: 	40231	40031
+
+2017-07-25 18:05:29
+	Abort all the nodes: 
+	40231	40031
+
+2017-07-25 18:05:37
+	 Detect a subset of targets: 	40231	40031
+
+2017-07-25 18:05:41
+	Exit Mobile Deluge...
+
+2017-07-25 18:05:48
+	Detecting neighbors...
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3695.0684
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 3729.0
+	Node 40131	Type: MICAz	Version: 42	Voltage (mV): 3760.0
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3657.2266
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3878.1738
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3792.7246
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3881.836
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 11001	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3878.1738
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3994.0
+	Node 40031	Type: TelosB	Version: 41	Voltage (mV): 3793.9453
+	Node 22031	Type: TelosB	Version: 50	Voltage (mV): 3901.3672
+	Node 40231	Type: TelosB	Version: 41	Voltage (mV): 3769.5312
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3624.2676
+
+2017-07-25 18:06:09
+	Exit Mobile Deluge...
+
+2017-07-25 18:06:27
+	Stop command issued!
+
+2017-07-25 18:06:27
+	Connecting to nodes: 	40031	40231
+	Node 40231 is READY	Type: TelosB	Version: 41	Voltage (mV): 3769.5312
+	Node 40031 is READY	Type: TelosB	Version: 41	Voltage (mV): 3796.3867
+
+2017-07-25 18:06:32
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	40031	40231
+
+2017-07-25 18:08:11
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	40031	40231
+
+2017-07-25 18:08:15
+	Stop command issued!
+
+2017-07-25 18:08:24
+	 Detect a subset of targets: 	40031	40231
+	Node 40031	Type: TelosB	Version: 50	Voltage (mV): 3790.2832
+	Node 40231	Type: TelosB	Version: 50	Voltage (mV): 3763.4277
+
+2017-07-25 18:08:36
+	Exit Mobile Deluge...
+
+2017-07-25 18:08:47
+	 Detect a subset of targets: 	40131	40331
+	Node 40131	Type: MICAz	Version: 42	Voltage (mV): 3749.0
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 3729.0
+
+2017-07-25 18:08:55
+	Stop command issued!
+
+2017-07-25 18:08:55
+	Connecting to nodes: 	40131
+	Node 40131 is READY	Type: MICAz	Version: 42	Voltage (mV): 3760.0
+
+2017-07-25 18:09:00
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	40131
+
+2017-07-25 18:11:06
+	Stop command issued!
+
+2017-07-25 18:11:12
+	 Detect a subset of targets: 	40131
+	Node 40131	Type: MICAz	Version: 50	Voltage (mV): 3749.0
+
+2017-07-26 12:58:11
+	 Detect a subset of targets: 	40331
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 3598.0
+
+2017-07-26 12:58:34
+	Exit Mobile Deluge...
+
+2017-07-26 12:58:47
+	 Detect a subset of targets: 	40331
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 3598.0
+
+2017-07-26 12:58:53
+	Stop command issued!
+
+2017-07-26 12:58:53
+	Connecting to nodes: 	40331
+	Node 40331 is READY	Type: IRIS	Version: 42	Voltage (mV): 3598.0
+
+2017-07-26 12:58:57
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	40331
+
+2017-07-26 12:59:15
+	Stop command issued!
+
+2017-07-26 12:59:17
+	Abort all the nodes: 
+	40331
+
+2017-07-26 12:59:53
+	Stop command issued!
+
+2017-07-26 13:00:26
+	 Detect a subset of targets: 	40331
+	Node 40331	Type: IRIS	Version: 42	Voltage (mV): 3598.0
+
+2017-07-26 13:00:33
+	Stop command issued!
+
+2017-07-26 13:00:33
+	Connecting to nodes: 	40331
+	Node 40331 is READY	Type: IRIS	Version: 42	Voltage (mV): 3598.0
+
+2017-07-26 13:00:38
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	40331
+
+2017-07-26 13:01:01
+	Stop command issued!
+
+2017-07-26 13:01:05
+	Abort all the nodes: 
+	40331
+
+2017-07-26 13:01:11
+	Exit Mobile Deluge...
+
+2017-07-26 13:06:02
+	 Detect a subset of targets: 	40331
+	Node 40331	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+
+2017-07-26 13:12:47
+	Stop command issued!
+
+2017-07-26 13:12:51
+	 Detect a subset of targets: 	10401
+
+2017-07-26 13:14:37
+	Exit Mobile Deluge...
+
+2017-07-26 13:16:04
+	Detecting neighbors...
+	Node 40131	Type: MICAz	Version: 50	Voltage (mV): 3672.0
+	Node 11001	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3608.3984
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3922.1191
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3870.8496
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 40031	Type: TelosB	Version: 50	Voltage (mV): 3710.9375
+
+2017-07-26 13:16:23
+	Stop command issued!
+
+2017-07-26 13:16:27
+	Detecting neighbors...
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 11001	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3884.2773
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3608.3984
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3937.9883
+	Node 40131	Type: MICAz	Version: 50	Voltage (mV): 3683.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 40031	Type: TelosB	Version: 50	Voltage (mV): 3709.7168
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3873.291
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3839.1113
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+
+2017-07-26 13:17:13
+	Stop command issued!
+
+2017-07-26 13:17:16
+	Detecting neighbors...
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3887.9395
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 21331	Type: MICAz	Version: 50	Voltage (mV): 3988.0
+	Node 21341	Type: MICAz	Version: 38	Voltage (mV): 3384.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3620.6055
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3872.0703
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3803.711
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3857.4219
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3738.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3778.0762
+	Node 20841	Type: MICAz	Version: 38	Voltage (mV): 3194.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3709.7168
+
+2017-07-26 13:18:01
+	Exit Mobile Deluge...
+
+2017-07-26 13:19:26
+	 Detect a subset of targets: 	20841
+	Node 20841	Type: MICAz	Version: 38	Voltage (mV): 3146.0
+
+2017-07-26 13:19:35
+	Stop command issued!
+
+2017-07-26 13:19:35
+	Connecting to nodes: 	20841
+	Node 20841 is READY	Type: MICAz	Version: 38	Voltage (mV): 3162.0
+
+2017-07-26 13:19:39
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20841
+
+2017-07-26 13:21:46
+	Stop command issued!
+
+2017-07-26 13:21:52
+	 Detect a subset of targets: 	20841
+	Node 20841	Type: MICAz	Version: 50	Voltage (mV): 3252.0
+
+2017-07-26 13:22:38
+	Detecting neighbors...
+	Node 21331	Type: MICAz	Version: 50	Voltage (mV): 3988.0
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3809.8145
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3717.0
+	Node 21341	Type: MICAz	Version: 38	Voltage (mV): 3366.0
+	Node 20841	Type: MICAz	Version: 50	Voltage (mV): 3194.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3728.0273
+	Node 41022	Type: MICAz	Version: 43	Voltage (mV): 3783.0
+	Node 20851	Type: MICAz	Version: 50	Voltage (mV): 3749.0
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3608.3984
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3870.8496
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3872.0703
+
+2017-07-26 13:22:58
+	Stop command issued!
+
+2017-07-26 13:22:58
+	Connecting to nodes: 	21341
+
+2017-07-26 13:23:22
+	Abort all the nodes: 
+	21341
+
+2017-07-26 13:23:29
+	 Detect a subset of targets: 	21341
+
+2017-07-26 13:23:38
+	Exit Mobile Deluge...
+
+2017-07-26 13:24:21
+	 Detect a subset of targets: 	21341
+	Node 21341	Type: MICAz	Version: 38	Voltage (mV): 3431.0
+
+2017-07-26 13:24:34
+	Stop command issued!
+
+2017-07-26 13:24:34
+	Connecting to nodes: 	21341
+	Node 21341 is READY	Type: MICAz	Version: 38	Voltage (mV): 3366.0
+
+2017-07-26 13:24:50
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21341
+
+2017-07-26 13:27:08
+	Stop command issued!
+
+2017-07-26 13:27:14
+	 Detect a subset of targets: 	21341
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3384.0
+
+2017-07-26 13:27:44
+	Detecting neighbors...
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2389.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 41022	Type: MICAz	Version: 43	Voltage (mV): 3772.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3804.9316
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3830.5664
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3728.0273
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3781.7383
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3762.207
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3375.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3901.3672
+	Node 20151	Type: TelosB	Version: 41	Voltage (mV): 3605.957
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3922.1191
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+
+2017-07-26 13:28:41
+	Exit Mobile Deluge...
+
+2017-07-26 13:29:29
+	Stop command issued!
+
+2017-07-26 13:29:30
+	Connecting to nodes: 	21031
+	Node 21031 is READY	Type: MICAz	Version: 41	Voltage (mV): 2389.0
+
+2017-07-26 13:29:43
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21031
+
+2017-07-26 13:32:23
+	Stop command issued!
+
+2017-07-26 13:32:34
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21031
+
+2017-07-26 13:32:54
+	Stop command issued!
+
+2017-07-26 13:33:00
+	Abort all the nodes: 
+	21031
+
+2017-07-26 13:33:08
+	Detecting neighbors...
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3859.8633
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3748.7793
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3440.0
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3884.2773
+	Node 22431	Type: TelosB	Version: 50	Voltage (mV): 3870.8496
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 10401	Type: IRIS	Version: 41	Voltage (mV): 3831.0
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2371.0
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3608.3984
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3738.0
+	Node 41022	Type: MICAz	Version: 43	Voltage (mV): 3772.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3811.0352
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3869.629
+
+2017-07-26 13:34:24
+	Stop command issued!
+
+2017-07-26 13:34:24
+	Connecting to nodes: 	10401
+
+2017-07-26 13:34:44
+	Exit Mobile Deluge...
+
+2017-07-26 13:34:50
+	Detecting neighbors...
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3807.373
+	Node 41022	Type: MICAz	Version: 43	Voltage (mV): 3772.0
+	Node 20151	Type: TelosB	Version: 41	Voltage (mV): 3637.6953
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3732.9102
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3375.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3612.0605
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3790.2832
+	Node 10401	Type: IRIS	Version: 41	Voltage (mV): 3857.0
+
+2017-07-26 13:35:34
+	Stop command issued!
+
+2017-07-26 13:35:34
+	Connecting to nodes: 	10401
+	Node 10401 is READY	Type: IRIS	Version: 41	Voltage (mV): 3857.0
+
+2017-07-26 13:35:41
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	10401
+
+2017-07-26 13:37:53
+	Stop command issued!
+
+2017-07-26 13:38:01
+	 Detect a subset of targets: 	10401
+	Node 10401	Type: IRIS	Version: 41	Voltage (mV): 3870.0
+
+2017-07-26 13:38:57
+	Stop command issued!
+
+2017-07-26 13:38:57
+	Connecting to nodes: 	10401
+	Node 10401 is READY	Type: IRIS	Version: 41	Voltage (mV): 3870.0
+
+2017-07-26 13:39:01
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	10401
+
+2017-07-26 13:41:11
+	Stop command issued!
+
+2017-07-26 13:41:18
+	 Detect a subset of targets: 	10401
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3870.0
+
+2017-07-26 13:42:34
+	Detecting neighbors...
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3878.1738
+	Node 20151	Type: TelosB	Version: 41	Voltage (mV): 3623.0469
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 41022	Type: MICAz	Version: 43	Voltage (mV): 3760.0
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3710.9375
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3804.9316
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 21331	Type: MICAz	Version: 50	Voltage (mV): 3988.0
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 2385.0
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3623.0469
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3870.8496
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3781.7383
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3721.9238
+
+2017-07-26 13:43:32
+	Exit Mobile Deluge...
+
+2017-07-26 13:43:50
+	 Detect a subset of targets: 	20151
+	Node 20151	Type: TelosB	Version: 41	Voltage (mV): 3623.0469
+
+2017-07-26 13:43:59
+	Stop command issued!
+
+2017-07-26 13:44:00
+	Connecting to nodes: 	20151
+	Node 20151 is READY	Type: TelosB	Version: 41	Voltage (mV): 3618.164
+
+2017-07-26 13:44:03
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20151
+
+2017-07-26 13:45:48
+	Stop command issued!
+
+2017-07-26 13:45:54
+	 Detect a subset of targets: 	20151
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 3466.7969
+
+2017-07-26 13:46:28
+	Detecting neighbors...
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3735.3516
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 3601.0742
+	Node 22431	Type: TelosB	Version: 50	Voltage (mV): 3872.0703
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3714.5996
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3859.8633
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3883.0566
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3717.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3841.5527
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3697.5098
+	Node 22231	Type: TelosB	Version: 50	Voltage (mV): 3847.6562
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3923.3398
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3709.7168
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3870.0
+	Node 21331	Type: MICAz	Version: 50	Voltage (mV): 4001.0
+
+2017-07-26 13:47:10
+	Detecting neighbors...
+
+2017-07-26 13:47:16
+	Exit Mobile Deluge...
+
+2017-07-26 13:47:28
+	Detecting neighbors...
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3781.7383
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3752.4414
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3610.8398
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3895.2637
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 21331	Type: MICAz	Version: 50	Voltage (mV): 3988.0
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3916.0156
+	Node 40331	Type: IRIS	Version: 50	Voltage (mV): 3587.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3864.746
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3808.5938
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3840.332
+	Node 22031	Type: TelosB	Version: 50	Voltage (mV): 3864.746
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+
+2017-07-26 13:48:41
+	Detecting neighbors...
+
+2017-07-26 13:48:56
+	Exit Mobile Deluge...
+
+2017-07-26 13:49:04
+	Detecting neighbors...
+	Node 11501	Type: IRIS	Version: 41	Voltage (mV): 4008.0
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3901.3672
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3854.9805
+	Node 41022	Type: MICAz	Version: 43	Voltage (mV): 3760.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3779.2969
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3748.7793
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3717.041
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3698.7305
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 3613.2812
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2519.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3710.9375
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 20851	Type: MICAz	Version: 50	Voltage (mV): 3749.0
+	Node 20841	Type: MICAz	Version: 50	Voltage (mV): 3146.0
+
+2017-07-26 13:49:47
+	Stop command issued!
+
+2017-07-26 13:49:55
+	 Detect a subset of targets: 	11501
+	Node 11501	Type: IRIS	Version: 41	Voltage (mV): 4008.0
+
+2017-07-26 13:50:05
+	Stop command issued!
+
+2017-07-26 13:50:05
+	Connecting to nodes: 	11501
+	Node 11501 is READY	Type: IRIS	Version: 41	Voltage (mV): 4008.0
+
+2017-07-26 13:50:09
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	11501
+
+2017-07-26 13:52:14
+	Stop command issued!
+
+2017-07-26 13:52:18
+	 Detect a subset of targets: 	11501
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 3994.0
+
+2017-07-26 13:53:28
+	Detecting neighbors...
+	Node 41022	Type: MICAz	Version: 43	Voltage (mV): 3749.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3724.3652
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3867.1875
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3750.0
+	Node 20851	Type: MICAz	Version: 50	Voltage (mV): 3749.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3920.8984
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3715.8203
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3749.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3789.0625
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3609.6191
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3870.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3856.2012
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+
+2017-07-26 13:58:47
+	Detecting neighbors...
+
+2017-07-26 13:58:55
+	Exit Mobile Deluge...
+
+2017-07-26 13:59:01
+	Detecting neighbors...
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3751.2207
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3834.2285
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3738.0
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 3913.0
+	Node 20851	Type: MICAz	Version: 50	Voltage (mV): 3749.0
+	Node 20841	Type: MICAz	Version: 50	Voltage (mV): 3162.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3856.2012
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3709.7168
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 41022	Type: MICAz	Version: 43	Voltage (mV): 3749.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+
+2017-07-26 14:00:40
+	 Detect a subset of targets: 	21031
+
+2017-07-26 14:00:52
+	Exit Mobile Deluge...
+
+2017-07-26 14:01:08
+	 Detect a subset of targets: 	21031
+	Node 21031	Type: MICAz	Version: 41	Voltage (mV): 3901.0
+
+2017-07-26 14:01:16
+	Stop command issued!
+
+2017-07-26 14:01:16
+	Connecting to nodes: 	21031
+	Node 21031 is READY	Type: MICAz	Version: 41	Voltage (mV): 3901.0
+
+2017-07-26 14:01:20
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21031
+
+2017-07-26 14:01:34
+	Stop command issued!
+
+2017-07-26 14:01:36
+	Abort all the nodes: 
+	21031
+
+2017-07-26 14:01:52
+	Stop command issued!
+
+2017-07-26 14:01:52
+	Connecting to nodes: 	21031
+	Node 21031 is READY	Type: MICAz	Version: 50	Voltage (mV): 3913.0
+
+2017-07-26 14:02:54
+	Abort all the nodes: 
+	21031
+
+2017-07-26 14:05:21
+	Detecting neighbors...
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3734.1309
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3859.8633
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3604.7363
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3862.3047
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3727.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3764.6484
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3780.5176
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 3441.162
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3809.8145
+	Node 22431	Type: TelosB	Version: 50	Voltage (mV): 3845.2148
+
+2017-07-26 14:06:13
+	Exit Mobile Deluge...
+
+2017-07-26 14:06:19
+	Detecting neighbors...
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3729.248
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3748.7793
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3609.6191
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3698.7305
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3830.5664
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3870.0
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3738.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3384.0
+
+2017-07-26 14:06:55
+	Detecting neighbors...
+
+2017-07-26 14:07:02
+	Exit Mobile Deluge...
+
+2017-07-26 14:07:07
+	Detecting neighbors...
+
+2017-07-26 14:07:17
+	Exit Mobile Deluge...
+
+2017-07-26 14:07:25
+	Detecting neighbors...
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3713.379
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3780.5176
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3738.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2536.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3772.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3734.1309
+	Node 50331	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3726.8066
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3804.9316
+
+2017-07-26 14:09:35
+	Detecting neighbors...
+
+2017-07-26 14:09:49
+	Exit Mobile Deluge...
+
+2017-07-26 14:09:56
+	Detecting neighbors...
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3802.4902
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3750.0
+	Node 40331	Type: IRIS	Version: 50	Voltage (mV): 3587.0
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3869.629
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3870.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3857.4219
+	Node 22031	Type: TelosB	Version: 50	Voltage (mV): 3865.9668
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3703.6133
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3375.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+
+2017-07-26 14:11:19
+	Stop command issued!
+
+2017-07-26 14:12:24
+	Detecting neighbors...
+
+2017-07-26 14:12:35
+	Exit Mobile Deluge...
+
+2017-07-26 14:12:59
+	Detecting neighbors...
+	Node 22431	Type: TelosB	Version: 50	Voltage (mV): 3843.9941
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3706.0547
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3412.0
+	Node 22031	Type: TelosB	Version: 50	Voltage (mV): 3886.7188
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 3643.7988
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3918.457
+	Node 22231	Type: TelosB	Version: 50	Voltage (mV): 3848.877
+	Node 20031	Type: IRIS	Version: 41	Voltage (mV): 3693.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2519.0
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3809.8145
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3884.2773
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+
+2017-07-26 14:13:23
+	Exit Mobile Deluge...
+
+2017-07-26 14:13:31
+	Stop command issued!
+
+2017-07-26 14:13:31
+	Connecting to nodes: 	20031
+	Node 20031 is READY	Type: IRIS	Version: 41	Voltage (mV): 3681.0
+
+2017-07-26 14:13:38
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20031
+
+2017-07-26 14:15:49
+	Stop command issued!
+
+2017-07-26 14:15:55
+	 Detect a subset of targets: 	20031
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3705.0
+
+2017-07-26 14:17:55
+	 Detect a subset of targets: 	20031
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3681.0
+
+2017-07-26 14:18:04
+	Stop command issued!
+
+2017-07-26 14:18:04
+	Connecting to nodes: 	20031
+	Node 20031 is READY	Type: IRIS	Version: 50	Voltage (mV): 3681.0
+
+2017-07-26 14:18:10
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20031
+
+2017-07-26 14:18:26
+	Stop command issued!
+
+2017-07-26 14:18:27
+	Abort all the nodes: 
+	20031
+
+2017-07-26 14:18:32
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20031
+
+2017-07-26 14:19:08
+	 Detect a subset of targets: 	20031
+
+2017-07-26 14:19:17
+	Exit Mobile Deluge...
+
+2017-07-26 14:19:28
+	 Detect a subset of targets: 	20031
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3681.0
+
+2017-07-26 14:19:34
+	Stop command issued!
+
+2017-07-26 14:19:35
+	Connecting to nodes: 	20031
+	Node 20031 is READY	Type: IRIS	Version: 50	Voltage (mV): 3693.0
+
+2017-07-26 14:19:39
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20031
+
+2017-07-26 14:19:59
+	Stop command issued!
+
+2017-07-26 14:20:05
+	Abort all the nodes: 
+	20031
+
+2017-07-26 14:20:54
+	 Detect a subset of targets: 	20031
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3681.0
+
+2017-07-26 14:20:59
+	Stop command issued!
+
+2017-07-26 14:20:59
+	Connecting to nodes: 	20031
+	Node 20031 is READY	Type: IRIS	Version: 50	Voltage (mV): 3693.0
+
+2017-07-26 14:21:03
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	20031
+
+2017-07-26 14:23:21
+	Stop command issued!
+
+2017-07-26 14:23:34
+	 Detect a subset of targets: 	20031
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3693.0
+
+2017-07-26 14:24:54
+	Detecting neighbors...
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3750.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3393.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 20841	Type: MICAz	Version: 50	Voltage (mV): 3154.0
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3738.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3732.9102
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3782.959
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3919.6777
+	Node 21031	Type: MICAz	Version: 50	Voltage (mV): 3913.0
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+
+2017-07-26 14:25:54
+	Stop command issued!
+
+2017-07-26 14:25:58
+	 Detect a subset of targets: 	21151
+
+2017-07-26 14:26:12
+	Stop command issued!
+
+2017-07-26 14:26:15
+	Detecting neighbors...
+
+2017-07-26 14:26:24
+	Exit Mobile Deluge...
+
+2017-07-26 14:26:28
+	Detecting neighbors...
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3764.6484
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 3607.1777
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3724.3652
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3870.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3784.1797
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3854.9805
+	Node 21031	Type: MICAz	Version: 50	Voltage (mV): 3913.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2519.0
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3738.0
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3835.4492
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3728.0273
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3608.3984
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3935.5469
+
+2017-07-26 14:27:46
+	Stop command issued!
+
+2017-07-26 14:27:48
+	Detecting neighbors...
+
+2017-07-26 14:27:55
+	Exit Mobile Deluge...
+
+2017-07-26 14:28:05
+	Detecting neighbors...
+	Node 63011	Type: MICAz	Version: 43	Voltage (mV): 3749.0
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 3551.0254
+	Node 21031	Type: MICAz	Version: 50	Voltage (mV): 3901.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3752.4414
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 50531	Type: MICAz	Version: 50	Voltage (mV): 3640.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3857.4219
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2542.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3729.248
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3681.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3867.1875
+
+2017-07-26 14:28:22
+	Exit Mobile Deluge...
+
+2017-07-26 14:30:56
+	Detecting neighbors...
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 4008.0
+	Node 21151	Type: MICAz	Version: 50	Voltage (mV): 3738.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3782.959
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3764.6484
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3730.4688
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3861.084
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3709.7168
+	Node 50531	Type: MICAz	Version: 50	Voltage (mV): 3640.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3854.9805
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 20841	Type: MICAz	Version: 50	Voltage (mV): 3162.0
+
+2017-07-26 14:35:25
+	Detecting neighbors...
+
+2017-07-26 14:35:34
+	Exit Mobile Deluge...
+
+2017-07-26 14:35:38
+	Detecting neighbors...
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 30951	Type: IRIS	Version: 41	Voltage (mV): 3681.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+
+2017-07-26 14:35:53
+	Stop command issued!
+
+2017-07-26 14:35:58
+	Detecting neighbors...
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2542.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 30951	Type: IRIS	Version: 41	Voltage (mV): 3681.0
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+
+2017-07-26 14:36:51
+	Exit Mobile Deluge...
+
+2017-07-26 14:38:20
+	 Detect a subset of targets: 	30951
+	Node 30951	Type: IRIS	Version: 41	Voltage (mV): 3705.0
+
+2017-07-26 14:38:27
+	Stop command issued!
+
+2017-07-26 14:38:28
+	Connecting to nodes: 	30951
+	Node 30951 is READY	Type: IRIS	Version: 41	Voltage (mV): 3681.0
+
+2017-07-26 14:38:31
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	30951
+
+2017-07-26 14:41:19
+	Stop command issued!
+
+2017-07-26 14:41:58
+	 Detect a subset of targets: 	30951
+	Node 30951	Type: IRIS	Version: 41	Voltage (mV): 3681.0
+
+2017-07-26 14:42:21
+	Stop command issued!
+
+2017-07-26 14:42:21
+	Connecting to nodes: 	30951	30851
+	Node 30851 is READY	Type: MICAz	Version: 42	Voltage (mV): 3672.0
+	Node 30951 is READY	Type: IRIS	Version: 41	Voltage (mV): 3681.0
+
+2017-07-26 14:42:34
+	Abort all the nodes: 
+	30951	30851
+
+2017-07-26 14:42:43
+	Stop command issued!
+
+2017-07-26 14:42:44
+	Connecting to nodes: 	30951
+	Node 30951 is READY	Type: IRIS	Version: 41	Voltage (mV): 3681.0
+
+2017-07-26 14:42:50
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	30951
+
+2017-07-26 14:44:08
+	Stop command issued!
+
+2017-07-26 14:44:23
+	Abort the nodes: 
+	30851	30951
+
+2017-07-26 14:44:34
+	Stop command issued!
+
+2017-07-26 14:44:34
+	Connecting to nodes: 	30951
+	Node 30951 is READY	Type: IRIS	Version: 41	Voltage (mV): 3681.0
+
+2017-07-26 14:44:38
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	30951
+
+2017-07-26 14:46:57
+	Stop command issued!
+
+2017-07-26 14:47:02
+	 Detect a subset of targets: 	30951
+	Node 30951	Type: IRIS	Version: 50	Voltage (mV): 3681.0
+
+2017-07-26 14:47:22
+	Exit Mobile Deluge...
+
+2017-07-26 14:47:30
+	Stop command issued!
+
+2017-07-26 14:47:30
+	Connecting to nodes: 	30851
+	Node 30851 is READY	Type: MICAz	Version: 42	Voltage (mV): 3661.0
+
+2017-07-26 14:47:37
+	Abort all the nodes: 
+	30851
+
+2017-07-26 14:47:48
+	Exit Mobile Deluge...
+
+2017-07-26 14:48:16
+	Stop command issued!
+
+2017-07-26 14:48:17
+	Connecting to nodes: 	30851
+	Node 30851 is READY	Type: MICAz	Version: 42	Voltage (mV): 3661.0
+
+2017-07-26 14:48:21
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	30851
+
+2017-07-26 14:50:38
+	Stop command issued!
+
+2017-07-26 14:50:44
+	 Detect a subset of targets: 	30851
+	Node 30851	Type: MICAz	Version: 50	Voltage (mV): 3661.0
+
+2017-07-26 14:50:48
+	Detecting neighbors...
+	Node 30851	Type: MICAz	Version: 50	Voltage (mV): 3661.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3772.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3609.0
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3828.125
+	Node 30951	Type: IRIS	Version: 50	Voltage (mV): 3669.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3865.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3751.2207
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 30351	Type: MICAz	Version: 42	Voltage (mV): 3913.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3885.498
+
+2017-07-26 14:51:20
+	Stop command issued!
+
+2017-07-26 14:51:26
+	Stop command issued!
+
+2017-07-26 14:51:27
+	Connecting to nodes: 	30351
+	Node 30351 is READY	Type: MICAz	Version: 42	Voltage (mV): 3913.0
+
+2017-07-26 14:51:30
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	30351
+
+2017-07-26 14:54:48
+	Stop command issued!
+
+2017-07-26 14:54:52
+	 Detect a subset of targets: 	30351
+	Node 30351	Type: MICAz	Version: 50	Voltage (mV): 3938.0
+
+2017-07-26 14:54:56
+	Detecting neighbors...
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3704.834
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3746.338
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3750.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3609.0
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3778.0762
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 30951	Type: IRIS	Version: 50	Voltage (mV): 3669.0
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3707.2754
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3719.4824
+
+2017-07-26 14:55:40
+	Stop command issued!
+
+2017-07-26 14:55:44
+	Detecting neighbors...
+
+2017-07-26 14:55:54
+	Exit Mobile Deluge...
+
+2017-07-26 14:55:59
+	Detecting neighbors...
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3521.7285
+	Node 30951	Type: IRIS	Version: 50	Voltage (mV): 3669.0
+	Node 30351	Type: MICAz	Version: 50	Voltage (mV): 3938.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3693.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3885.498
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3778.0762
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2607.0
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3865.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 31251	Type: MICAz	Version: 50	Voltage (mV): 3818.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3706.0547
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3709.7168
+
+2017-07-26 14:56:59
+	Stop command issued!
+
+2017-07-26 14:57:03
+	Detecting neighbors...
+
+2017-07-26 14:57:09
+	Exit Mobile Deluge...
+
+2017-07-26 14:57:13
+	Detecting neighbors...
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3728.0273
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3783.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 31251	Type: MICAz	Version: 50	Voltage (mV): 3818.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3828.125
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3747.5586
+	Node 60831	Type: TelosB	Version: 50	Voltage (mV): 3704.834
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3741.455
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+	Node 30951	Type: IRIS	Version: 50	Voltage (mV): 3669.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 30351	Type: MICAz	Version: 50	Voltage (mV): 3925.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+
+2017-07-26 14:59:34
+	Stop command issued!
+
+2017-07-26 14:59:37
+	Detecting neighbors...
+
+2017-07-26 14:59:45
+	Exit Mobile Deluge...
+
+2017-07-26 14:59:56
+	Detecting neighbors...
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3833.0078
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 61231	Type: TelosB	Version: 50	Voltage (mV): 3579.1016
+	Node 61131	Type: TelosB	Version: 50	Voltage (mV): 3780.5176
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3701.1719
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3865.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3725.586
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3719.4824
+	Node 60831	Type: TelosB	Version: 50	Voltage (mV): 3706.0547
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3704.834
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3885.498
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3841.5527
+
+2017-07-26 15:01:15
+	Detecting neighbors...
+
+2017-07-26 15:01:26
+	Stop command issued!
+
+2017-07-26 15:01:30
+	Detecting neighbors...
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2531.0
+	Node 60831	Type: TelosB	Version: 50	Voltage (mV): 3703.6133
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3521.7285
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3707.2754
+	Node 61231	Type: TelosB	Version: 50	Voltage (mV): 3593.75
+	Node 61131	Type: TelosB	Version: 50	Voltage (mV): 3791.504
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3828.125
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3833.0078
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3688.9648
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3724.3652
+	Node 61831	Type: TelosB	Version: 50	Voltage (mV): 3848.877
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3708.496
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+
+2017-07-26 15:03:29
+	Exit Mobile Deluge...
+
+2017-07-26 15:05:12
+	 Detect a subset of targets: 	60201
+	Node 60201	Type: TelosB	Version: 50	Voltage (mV): 3818.3594
+
+2017-07-26 15:07:49
+	Exit Mobile Deluge...
+
+2017-07-26 15:12:26
+	Detecting neighbors...
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 50331	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 30351	Type: MICAz	Version: 50	Voltage (mV): 3913.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3783.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2607.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3753.662
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 30951	Type: IRIS	Version: 50	Voltage (mV): 3657.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3730.4688
+
+2017-07-26 15:13:46
+	Exit Mobile Deluge...
+
+2017-07-26 15:13:58
+	 Detect a subset of targets: 	50131
+
+2017-07-26 15:14:15
+	Stop command issued!
+
+2017-07-26 15:14:18
+	Detecting neighbors...
+
+2017-07-26 15:14:23
+	Exit Mobile Deluge...
+
+2017-07-26 15:14:28
+	Detecting neighbors...
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3783.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2613.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 50331	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 30351	Type: MICAz	Version: 50	Voltage (mV): 3913.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+
+2017-07-26 15:14:42
+	Exit Mobile Deluge...
+
+2017-07-26 15:16:42
+	 Detect a subset of targets: 	50131
+	Node 50131	Type: MICAz	Version: 50	Voltage (mV): 3901.0
+
+2017-07-26 15:19:16
+	Detecting neighbors...
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 50331	Type: MICAz	Version: 50	Voltage (mV): 3865.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2607.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3729.0
+	Node 50231	Type: MICAz	Version: 50	Voltage (mV): 3865.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 50031	Type: MICAz	Version: 50	Voltage (mV): 3783.0
+	Node 30951	Type: IRIS	Version: 50	Voltage (mV): 3669.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3763.4277
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+
+2017-07-26 15:24:47
+	Exit Mobile Deluge...
+
+2017-07-26 15:24:54
+	Detecting neighbors...
+
+2017-07-26 15:25:07
+	Exit Mobile Deluge...
+
+2017-07-26 15:25:17
+	Detecting neighbors...
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2607.0
+	Node 30351	Type: MICAz	Version: 50	Voltage (mV): 3901.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3690.1855
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3734.1309
+	Node 61631	Type: TelosB	Version: 50	Voltage (mV): 3737.793
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3842.7734
+	Node 50531	Type: MICAz	Version: 50	Voltage (mV): 3651.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3789.0625
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3903.8086
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3729.248
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3693.0
+
+2017-07-26 15:26:23
+	Stop command issued!
+
+2017-07-26 15:53:22
+	Exit Mobile Deluge...
+
+2017-07-26 15:55:17
+	Detecting neighbors...
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3713.379
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3839.1113
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3857.4219
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 22431	Type: TelosB	Version: 50	Voltage (mV): 3852.539
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 3587.6465
+	Node 20251	Type: MICAz	Version: 50	Voltage (mV): 3818.0
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3693.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3754.8828
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 21031	Type: MICAz	Version: 50	Voltage (mV): 3901.0
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3393.0
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3862.3047
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 3994.0
+
+2017-07-26 15:55:45
+	Exit Mobile Deluge...
+
+2017-07-26 15:55:53
+	Detecting neighbors...
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3938.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3787.8418
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3736.5723
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3858.6426
+	Node 21151	Type: MICAz	Version: 50	Voltage (mV): 3749.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3753.662
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3478.0
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 20851	Type: MICAz	Version: 50	Voltage (mV): 3738.0
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3806.1523
+	Node 11001	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3884.2773
+	Node 22031	Type: TelosB	Version: 50	Voltage (mV): 3862.3047
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2548.0
+	Node 20251	Type: MICAz	Version: 50	Voltage (mV): 3818.0
+
+2017-07-26 15:57:29
+	Exit Mobile Deluge...
+
+2017-07-27 11:41:27
+	Detecting neighbors...
+	Node 40131	Type: MICAz	Version: 50	Voltage (mV): 3588.0
+	Node 11301	Type: IRIS	Version: 50	Voltage (mV): 3754.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 40331	Type: IRIS	Version: 50	Voltage (mV): 3476.0
+	Node 10601	Type: IRIS	Version: 42	Voltage (mV): 4008.0
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3197.0215
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 3952.0
+
+2017-07-27 11:41:42
+	Exit Mobile Deluge...
+
+2017-07-27 11:41:54
+	 Reboot a single node: 	11501
+
+2017-07-27 11:42:11
+	 Detect a subset of targets: 	10601
+	Node 10601	Type: IRIS	Version: 42	Voltage (mV): 4008.0
+
+2017-07-27 11:42:16
+	Exit Mobile Deluge...
+
+2017-07-27 12:49:11
+	 Detect a subset of targets: 	31131
+	Node 31131	Type: IRIS	Version: 50	Voltage (mV): 3980.0
+
+2017-07-27 12:49:58
+	Exit Mobile Deluge...
+
+2017-07-27 12:52:28
+	 Detect a subset of targets: 	31051
+
+2017-07-27 12:52:36
+	Detecting neighbors...
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3728.0273
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 31251	Type: MICAz	Version: 50	Voltage (mV): 3727.0
+	Node 30951	Type: IRIS	Version: 50	Voltage (mV): 3621.0
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3852.539
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2595.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2519.0
+	Node 31131	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2542.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3717.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3745.1172
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3468.0176
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3865.0
+	Node 21411	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 30651	Type: MICAz	Version: 50	Voltage (mV): 3877.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3693.0
+
+2017-07-27 12:53:11
+	Detecting neighbors...
+
+2017-07-27 12:53:18
+	Exit Mobile Deluge...
+
+2017-07-27 12:53:30
+	 Detect a subset of targets: 	31051
+
+2017-07-27 12:54:30
+	Detecting neighbors...
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 31051	Type: IRIS	Version: 50	Voltage (mV): 2560.0
+	Node 30551	Type: MICAz	Version: 50	Voltage (mV): 3853.0
+	Node 30151	Type: MICAz	Version: 50	Voltage (mV): 3598.0
+	Node 31131	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3260.498
+	Node 30351	Type: MICAz	Version: 50	Voltage (mV): 3738.0
+	Node 30751	Type: MICAz	Version: 50	Voltage (mV): 3963.0
+	Node 31251	Type: MICAz	Version: 50	Voltage (mV): 3727.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3792.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2519.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3693.0
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3868.4082
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3564.0
+	Node 21411	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2536.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2595.0
+
+2017-07-27 12:56:39
+	Exit Mobile Deluge...
+
+2017-07-27 13:01:49
+	Detecting neighbors...
+
+2017-07-27 13:02:12
+	Detecting neighbors...
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2542.0
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3693.8477
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3704.834
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3693.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2595.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3792.0
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3712.1582
+	Node 61631	Type: TelosB	Version: 50	Voltage (mV): 3723.1445
+	Node 61931	Type: TelosB	Version: 50	Voltage (mV): 3817.1387
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3717.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3575.0
+	Node 31131	Type: IRIS	Version: 50	Voltage (mV): 3897.0
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2519.0
+	Node 61231	Type: TelosB	Version: 50	Voltage (mV): 3533.9355
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3720.7031
+	Node 60201	Type: TelosB	Version: 50	Voltage (mV): 3745.1172
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3798.8281
+
+2017-07-27 13:02:27
+	Exit Mobile Deluge...
+
+2017-07-27 13:02:34
+	 Detect a subset of targets: 	61031
+	Node 61031	Type: TelosB	Version: 50	Voltage (mV): 3640.1367
+
+2017-07-27 13:03:07
+	 Reboot a single node: 	61031
+
+2017-07-27 13:03:22
+	Exit Mobile Deluge...
+
+2017-07-28 08:56:51
+	Detecting neighbors...
+	Node 21411	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3845.2148
+	Node 11701	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 21341	Type: MICAz	Version: 50	Voltage (mV): 3384.0
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3861.084
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 2528.0762
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3705.0
+	Node 21031	Type: MICAz	Version: 50	Voltage (mV): 3853.0
+	Node 7281	Type: TelosB	Version: 51	Voltage (mV): 2867.4316
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3707.2754
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3803.711
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3856.2012
+	Node 20251	Type: MICAz	Version: 50	Voltage (mV): 3760.0
+	Node 21331	Type: MICAz	Version: 50	Voltage (mV): 3975.0
+
+2017-07-28 08:57:50
+	Exit Mobile Deluge...
+
+2017-07-28 08:58:03
+	 Detect a subset of targets: 	21631	21731	21831	21931
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3846.4355
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3841.5527
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3823.2422
+
+2017-07-28 08:58:35
+	Stop command issued!
+
+2017-07-28 08:58:35
+	Connecting to nodes: 	21631	2173	21831
+	Node 21831 is READY	Type: TelosB	Version: 50	Voltage (mV): 3803.711
+	Node 21631 is READY	Type: TelosB	Version: 50	Voltage (mV): 3846.4355
+
+2017-07-28 08:58:45
+	Abort all the nodes: 
+	21631	2173	21831
+
+2017-07-28 08:58:59
+	Stop command issued!
+
+2017-07-28 08:58:59
+	Connecting to nodes: 	21631	21731	21831
+	Node 21631 is READY	Type: TelosB	Version: 50	Voltage (mV): 3843.9941
+	Node 21731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3839.1113
+	Node 21831 is READY	Type: TelosB	Version: 50	Voltage (mV): 3803.711
+
+2017-07-28 08:59:04
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21631	21731	21831
+
+2017-07-28 09:01:48
+	Stop command issued!
+
+2017-07-28 09:01:55
+	 Detect a subset of targets: 	21631	21731	21831
+	Node 21631	Type: TelosB	Version: 50	Voltage (mV): 3846.4355
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3840.332
+	Node 21831	Type: TelosB	Version: 50	Voltage (mV): 3798.8281
+
+2017-07-28 09:02:53
+	Exit Mobile Deluge...
+
+2017-07-28 09:03:46
+	Stop command issued!
+
+2017-07-28 09:03:46
+	Connecting to nodes: 	21631
+	Node 21631 is READY	Type: TelosB	Version: 50	Voltage (mV): 3841.5527
+
+2017-07-28 09:03:51
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21631
+
+2017-07-28 09:05:36
+	Stop command issued!
+
+2017-07-28 09:05:40
+	 Detect a subset of targets: 	21631
+	Node 21631	Type: TelosB	Version: 51	Voltage (mV): 3842.7734
+
+2017-07-28 09:05:53
+	Stop command issued!
+
+2017-07-28 09:05:54
+	Connecting to nodes: 	21731	21831
+	Node 21831 is READY	Type: TelosB	Version: 50	Voltage (mV): 3801.2695
+	Node 21731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3837.8906
+
+2017-07-28 09:05:57
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21731	21831
+
+2017-07-28 09:07:37
+	Stop command issued!
+
+2017-07-28 09:07:44
+	 Detect a subset of targets: 	21731	21831
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3839.1113
+	Node 21831	Type: TelosB	Version: 51	Voltage (mV): 3798.8281
+
+2017-07-28 09:07:54
+	Stop command issued!
+
+2017-07-28 09:07:54
+	Connecting to nodes: 	21731
+	Node 21731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3864.746
+
+2017-07-28 09:07:58
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21731
+
+2017-07-28 09:08:26
+	Stop command issued!
+
+2017-07-28 09:08:30
+	 Detect a subset of targets: 	21731
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3839.1113
+
+2017-07-28 09:08:53
+	Stop command issued!
+
+2017-07-28 09:08:53
+	Connecting to nodes: 	21731
+	Node 21731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3861.084
+
+2017-07-28 09:08:57
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21731
+
+2017-07-28 09:09:29
+	Stop command issued!
+
+2017-07-28 09:09:36
+	Stop command issued!
+
+2017-07-28 09:09:36
+	Connecting to nodes: 	21731
+	Node 21731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3839.1113
+
+2017-07-28 09:09:46
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21731
+
+2017-07-28 09:10:28
+	Stop command issued!
+
+2017-07-28 09:10:33
+	Stop command issued!
+
+2017-07-28 09:10:34
+	Connecting to nodes: 	21731
+	Node 21731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3836.67
+
+2017-07-28 09:10:39
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21731
+
+2017-07-28 09:11:20
+	Stop command issued!
+
+2017-07-28 09:11:42
+	 Detect a subset of targets: 	21931
+	Node 21931	Type: TelosB	Version: 50	Voltage (mV): 3605.957
+
+2017-07-28 09:11:52
+	Stop command issued!
+
+2017-07-28 09:11:52
+	Connecting to nodes: 	21931
+	Node 21931 is READY	Type: TelosB	Version: 50	Voltage (mV): 3605.957
+
+2017-07-28 09:11:55
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	21931
+
+2017-07-28 09:13:35
+	Stop command issued!
+
+2017-07-28 09:13:38
+	 Detect a subset of targets: 	21931
+	Node 21931	Type: TelosB	Version: 51	Voltage (mV): 3564.4531
+
+2017-07-28 09:14:05
+	 Detect a subset of targets: 	22031	22131	22231
+	Node 22131	Type: TelosB	Version: 50	Voltage (mV): 3782.959
+	Node 22231	Type: TelosB	Version: 50	Voltage (mV): 3829.3457
+
+2017-07-28 09:14:19
+	Stop command issued!
+
+2017-07-28 09:14:20
+	Connecting to nodes: 	22131	22231
+	Node 22231 is READY	Type: TelosB	Version: 50	Voltage (mV): 3833.0078
+	Node 22131 is READY	Type: TelosB	Version: 50	Voltage (mV): 3781.7383
+
+2017-07-28 09:14:25
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22131	22231
+
+2017-07-28 09:14:36
+	Stop command issued!
+
+2017-07-28 09:14:39
+	Abort all the nodes: 
+	22131	22231
+
+2017-07-28 09:14:51
+	Exit Mobile Deluge...
+
+2017-07-28 09:15:00
+	Abort the nodes: 
+	22131	22231
+
+2017-07-28 09:15:10
+	Stop command issued!
+
+2017-07-28 09:15:10
+	Connecting to nodes: 	22131	22231
+	Node 22131 is READY	Type: TelosB	Version: 50	Voltage (mV): 3803.711
+	Node 22231 is READY	Type: TelosB	Version: 50	Voltage (mV): 3839.1113
+
+2017-07-28 09:15:15
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22131	22231
+
+2017-07-28 09:16:59
+	Stop command issued!
+
+2017-07-28 09:17:04
+	 Detect a subset of targets: 	22131	22231
+	Node 22131	Type: TelosB	Version: 51	Voltage (mV): 3778.0762
+	Node 22231	Type: TelosB	Version: 51	Voltage (mV): 3825.6836
+
+2017-07-28 09:17:25
+	 Detect a subset of targets: 	22031	22331	22431
+	Node 22431	Type: TelosB	Version: 50	Voltage (mV): 3850.0977
+	Node 22331	Type: TelosB	Version: 50	Voltage (mV): 3862.3047
+
+2017-07-28 09:17:35
+	Stop command issued!
+
+2017-07-28 09:17:36
+	Connecting to nodes: 	22331	22431
+	Node 22331 is READY	Type: TelosB	Version: 50	Voltage (mV): 3876.9531
+	Node 22431 is READY	Type: TelosB	Version: 50	Voltage (mV): 3829.3457
+
+2017-07-28 09:17:41
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22331	22431
+
+2017-07-28 09:19:38
+	Stop command issued!
+
+2017-07-28 09:19:48
+	 Detect a subset of targets: 	22331	22431
+	Node 22431	Type: TelosB	Version: 51	Voltage (mV): 3828.125
+	Node 22331	Type: TelosB	Version: 51	Voltage (mV): 3874.5117
+
+2017-07-28 09:19:54
+	Stop command issued!
+
+2017-07-28 09:19:55
+	Connecting to nodes: 	22031
+	Node 22031 is READY	Type: TelosB	Version: 50	Voltage (mV): 3848.877
+
+2017-07-28 09:20:00
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22031
+
+2017-07-28 09:21:54
+	Stop command issued!
+
+2017-07-28 09:21:59
+	 Detect a subset of targets: 	22031
+	Node 22031	Type: TelosB	Version: 51	Voltage (mV): 3848.877
+
+2017-07-28 09:22:37
+	 Detect a subset of targets: 	22531
+
+2017-07-28 09:22:47
+	Exit Mobile Deluge...
+
+2017-07-28 09:22:55
+	 Detect a subset of targets: 	22531
+
+2017-07-28 09:22:59
+	Detecting neighbors...
+	Node 21831	Type: TelosB	Version: 51	Voltage (mV): 3797.6074
+	Node 21931	Type: TelosB	Version: 51	Voltage (mV): 3613.2812
+	Node 22431	Type: TelosB	Version: 51	Voltage (mV): 3850.0977
+	Node 20151	Type: TelosB	Version: 50	Voltage (mV): 2532.959
+	Node 22231	Type: TelosB	Version: 51	Voltage (mV): 3828.125
+	Node 22331	Type: TelosB	Version: 51	Voltage (mV): 3859.8633
+	Node 22131	Type: TelosB	Version: 51	Voltage (mV): 3780.5176
+	Node 21731	Type: TelosB	Version: 50	Voltage (mV): 3847.6562
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3779.0
+
+2017-07-28 09:24:35
+	 Detect a subset of targets: 	22531
+	Node 22531	Type: TelosB	Version: 50	Voltage (mV): 3715.8203
+
+2017-07-28 09:24:41
+	Stop command issued!
+
+2017-07-28 09:24:41
+	Connecting to nodes: 	22531
+	Node 22531 is READY	Type: TelosB	Version: 50	Voltage (mV): 3707.2754
+
+2017-07-28 09:24:45
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22531
+
+2017-07-28 09:26:33
+	Stop command issued!
+
+2017-07-28 09:26:44
+	 Detect a subset of targets: 	22531
+	Node 22531	Type: TelosB	Version: 51	Voltage (mV): 3710.9375
+
+2017-07-28 09:27:53
+	 Detect a subset of targets: 	62231
+
+2017-07-28 09:28:00
+	Exit Mobile Deluge...
+
+2017-07-28 09:28:07
+	Detecting neighbors...
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3779.0
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3691.4062
+	Node 21831	Type: TelosB	Version: 51	Voltage (mV): 3801.2695
+	Node 22131	Type: TelosB	Version: 51	Voltage (mV): 3780.5176
+	Node 21411	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3705.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 22531	Type: TelosB	Version: 51	Voltage (mV): 3715.8203
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3824.463
+	Node 21151	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+
+2017-07-28 09:28:26
+	 Detect a subset of targets: 	62231	62131	62031
+	Node 62131	Type: TelosB	Version: 50	Voltage (mV): 3824.463
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3692.627
+
+2017-07-28 09:28:40
+	Stop command issued!
+
+2017-07-28 09:28:40
+	Connecting to nodes: 	62131	62031
+	Node 62031 is READY	Type: TelosB	Version: 50	Voltage (mV): 3691.4062
+	Node 62131 is READY	Type: TelosB	Version: 50	Voltage (mV): 3825.6836
+
+2017-07-28 09:28:46
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	62131	62031
+
+2017-07-28 09:30:26
+	Stop command issued!
+
+2017-07-28 09:30:36
+	 Detect a subset of targets: 	62131	62031	62231
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3767.0898
+	Node 62131	Type: TelosB	Version: 51	Voltage (mV): 3825.6836
+
+2017-07-28 09:30:49
+	 Detect a subset of targets: 	62031
+
+2017-07-28 09:30:57
+	Exit Mobile Deluge...
+
+2017-07-28 09:31:07
+	 Detect a subset of targets: 	62031	62231
+	Node 62231	Type: TelosB	Version: 50	Voltage (mV): 3767.0898
+
+2017-07-28 09:31:16
+	Stop command issued!
+
+2017-07-28 09:31:16
+	Connecting to nodes: 	62231
+	Node 62231 is READY	Type: TelosB	Version: 50	Voltage (mV): 3765.8691
+
+2017-07-28 09:31:22
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	62231
+
+2017-07-28 09:33:18
+	Stop command issued!
+
+2017-07-28 09:33:22
+	 Detect a subset of targets: 	62231
+	Node 62231	Type: TelosB	Version: 51	Voltage (mV): 3767.0898
+
+2017-07-28 09:33:56
+	Exit Mobile Deluge...
+
+2017-07-28 09:34:02
+	 Detect a subset of targets: 	62031
+	Node 62031	Type: TelosB	Version: 50	Voltage (mV): 3690.1855
+
+2017-07-28 09:34:13
+	Stop command issued!
+
+2017-07-28 09:34:13
+	Connecting to nodes: 	62031
+	Node 62031 is READY	Type: TelosB	Version: 50	Voltage (mV): 3688.9648
+
+2017-07-28 09:34:16
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	62031
+
+2017-07-28 09:36:06
+	Stop command issued!
+
+2017-07-28 09:36:15
+	 Detect a subset of targets: 	62031
+	Node 62031	Type: TelosB	Version: 51	Voltage (mV): 3688.9648
+
+2017-07-28 09:36:48
+	 Detect a subset of targets: 	61931
+
+2017-07-28 09:36:58
+	Exit Mobile Deluge...
+
+2017-07-28 09:37:08
+	 Detect a subset of targets: 	61931
+
+2017-07-28 09:37:32
+	Detecting neighbors...
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3705.0
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3779.0
+	Node 62131	Type: TelosB	Version: 51	Voltage (mV): 3824.463
+	Node 62031	Type: TelosB	Version: 51	Voltage (mV): 3687.7441
+	Node 20031	Type: IRIS	Version: 50	Voltage (mV): 3705.0
+	Node 11601	Type: IRIS	Version: 50	Voltage (mV): 3911.0
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3708.496
+	Node 21151	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 62231	Type: TelosB	Version: 51	Voltage (mV): 3767.0898
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3818.0
+	Node 20301	Type: IRIS	Version: 50	Voltage (mV): 2525.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3775.6348
+	Node 21411	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+
+2017-07-28 09:38:08
+	Exit Mobile Deluge...
+
+2017-07-28 09:38:18
+	 Detect a subset of targets: 	22831	61931
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3775.6348
+
+2017-07-28 09:38:29
+	Stop command issued!
+
+2017-07-28 09:38:29
+	Connecting to nodes: 	22831
+
+2017-07-28 09:38:45
+	Abort all the nodes: 
+	22831
+
+2017-07-28 09:38:55
+	 Detect a subset of targets: 	22831
+
+2017-07-28 09:39:03
+	Exit Mobile Deluge...
+
+2017-07-28 09:39:08
+	Detecting neighbors...
+	Node 60001	Type: IRIS	Version: 50	Voltage (mV): 2519.0
+	Node 30031	Type: IRIS	Version: 50	Voltage (mV): 2589.0
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3402.0996
+	Node 31131	Type: IRIS	Version: 50	Voltage (mV): 2129.0
+	Node 62031	Type: TelosB	Version: 51	Voltage (mV): 3718.2617
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2536.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 31051	Type: IRIS	Version: 50	Voltage (mV): 2508.0
+	Node 31301	Type: IRIS	Version: 50	Voltage (mV): 3564.0
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3785.4004
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3779.0
+	Node 60201	Type: TelosB	Version: 50	Voltage (mV): 3691.4062
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+	Node 21411	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3705.0
+
+2017-07-28 09:39:29
+	 Detect a subset of targets: 	22831	61931
+
+2017-07-28 09:40:41
+	Detecting neighbors...
+	Node 31131	Type: IRIS	Version: 50	Voltage (mV): 2141.0
+	Node 61831	Type: TelosB	Version: 50	Voltage (mV): 3801.2695
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3779.0
+	Node 61231	Type: TelosB	Version: 50	Voltage (mV): 3482.666
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3399.6582
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3795.166
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3688.9648
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3750.0
+	Node 60101	Type: IRIS	Version: 50	Voltage (mV): 3705.0
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3703.6133
+	Node 61131	Type: TelosB	Version: 50	Voltage (mV): 3760.9863
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3663.33
+	Node 61431	Type: TelosB	Version: 50	Voltage (mV): 3691.4062
+	Node 61331	Type: TelosB	Version: 50	Voltage (mV): 3687.7441
+	Node 61031	Type: TelosB	Version: 50	Voltage (mV): 3602.295
+	Node 60201	Type: TelosB	Version: 50	Voltage (mV): 3691.4062
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3833.0078
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2536.0
+
+2017-07-28 09:40:54
+	Exit Mobile Deluge...
+
+2017-07-28 09:41:11
+	 Detect a subset of targets: 	61831	61731	61631	61531
+	Node 61531	Type: TelosB	Version: 50	Voltage (mV): 3778.0762
+	Node 61731	Type: TelosB	Version: 50	Voltage (mV): 3706.0547
+	Node 61831	Type: TelosB	Version: 50	Voltage (mV): 3803.711
+
+2017-07-28 09:41:29
+	Stop command issued!
+
+2017-07-28 09:41:29
+	Connecting to nodes: 	61531	61731	61831
+	Node 61531 is READY	Type: TelosB	Version: 50	Voltage (mV): 3779.2969
+	Node 61731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3702.3926
+
+2017-07-28 09:41:41
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	61531	61731	61831
+
+2017-07-28 09:43:47
+	Stop command issued!
+
+2017-07-28 09:43:59
+	 Detect a subset of targets: 	61531	61731	61831
+	Node 61831	Type: TelosB	Version: 51	Voltage (mV): 3801.2695
+	Node 61731	Type: TelosB	Version: 51	Voltage (mV): 3713.379
+	Node 61531	Type: TelosB	Version: 51	Voltage (mV): 3779.2969
+
+2017-07-28 09:44:18
+	Stop command issued!
+
+2017-07-28 09:44:19
+	Connecting to nodes: 	61331	61431
+	Node 61431 is READY	Type: TelosB	Version: 50	Voltage (mV): 3691.4062
+	Node 61331 is READY	Type: TelosB	Version: 50	Voltage (mV): 3687.7441
+
+2017-07-28 09:44:23
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	61331	61431
+
+2017-07-28 09:46:03
+	Stop command issued!
+
+2017-07-28 09:46:09
+	 Detect a subset of targets: 	61331	61431
+	Node 61431	Type: TelosB	Version: 51	Voltage (mV): 3702.3926
+	Node 61331	Type: TelosB	Version: 51	Voltage (mV): 3685.3027
+
+2017-07-28 09:46:43
+	Stop command issued!
+
+2017-07-28 09:46:44
+	Connecting to nodes: 	61631
+	Node 61631 is READY	Type: TelosB	Version: 50	Voltage (mV): 3690.1855
+
+2017-07-28 09:46:47
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	61631
+
+2017-07-28 09:48:37
+	Stop command issued!
+
+2017-07-28 09:48:43
+	 Detect a subset of targets: 	61631
+	Node 61631	Type: TelosB	Version: 51	Voltage (mV): 3688.9648
+
+2017-07-28 09:49:36
+	 Detect a subset of targets: 	60331	60431	60531	60631
+	Node 60331	Type: TelosB	Version: 50	Voltage (mV): 3708.496
+	Node 60431	Type: TelosB	Version: 50	Voltage (mV): 3746.338
+	Node 60631	Type: TelosB	Version: 50	Voltage (mV): 3829.3457
+	Node 60531	Type: TelosB	Version: 50	Voltage (mV): 3391.1133
+
+2017-07-28 09:49:52
+	Stop command issued!
+
+2017-07-28 09:49:52
+	Connecting to nodes: 	60331	60431	60531	60631
+	Node 60631 is READY	Type: TelosB	Version: 50	Voltage (mV): 3848.877
+	Node 60331 is READY	Type: TelosB	Version: 50	Voltage (mV): 3690.1855
+	Node 60531 is READY	Type: TelosB	Version: 50	Voltage (mV): 3380.127
+	Node 60431 is READY	Type: TelosB	Version: 50	Voltage (mV): 3748.7793
+
+2017-07-28 09:49:57
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	60331	60431	60531	60631
+
+2017-07-28 09:52:46
+	Stop command issued!
+
+2017-07-28 09:52:58
+	 Detect a subset of targets: 	60331	60431	60531	60631
+	Node 60331	Type: TelosB	Version: 51	Voltage (mV): 3687.7441
+	Node 60431	Type: TelosB	Version: 51	Voltage (mV): 3747.5586
+	Node 60631	Type: TelosB	Version: 51	Voltage (mV): 3829.3457
+
+2017-07-28 09:53:09
+	 Detect a subset of targets: 	60531
+
+2017-07-28 09:53:30
+	Stop command issued!
+
+2017-07-28 09:53:34
+	Abort the nodes: 
+	60531
+
+2017-07-28 09:53:42
+	Stop command issued!
+
+2017-07-28 09:53:42
+	Connecting to nodes: 	60531
+	Node 60531 is READY	Type: TelosB	Version: 50	Voltage (mV): 2528.0762
+
+2017-07-28 09:53:47
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	60531
+
+2017-07-28 09:53:59
+	Stop command issued!
+
+2017-07-28 09:54:16
+	 Detect a subset of targets: 	60731	60831	60931
+	Node 60731	Type: TelosB	Version: 50	Voltage (mV): 3703.6133
+	Node 60931	Type: TelosB	Version: 50	Voltage (mV): 3677.9785
+	Node 60831	Type: TelosB	Version: 50	Voltage (mV): 3681.6406
+
+2017-07-28 09:54:33
+	Stop command issued!
+
+2017-07-28 09:54:33
+	Connecting to nodes: 	60731	60831	60931
+	Node 60931 is READY	Type: TelosB	Version: 50	Voltage (mV): 3680.42
+	Node 60831 is READY	Type: TelosB	Version: 50	Voltage (mV): 3690.1855
+	Node 60731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3703.6133
+
+2017-07-28 09:54:37
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	60731	60831	60931
+
+2017-07-28 09:56:20
+	Stop command issued!
+
+2017-07-28 09:56:29
+	 Detect a subset of targets: 	60731	60831	60931
+	Node 60831	Type: TelosB	Version: 51	Voltage (mV): 3679.1992
+	Node 60931	Type: TelosB	Version: 51	Voltage (mV): 3677.9785
+
+2017-07-28 09:56:51
+	 Detect a subset of targets: 	60731
+
+2017-07-28 09:56:59
+	Abort the nodes: 
+	60731
+
+2017-07-28 09:57:28
+	Stop command issued!
+
+2017-07-28 09:57:28
+	Connecting to nodes: 	61131	61231	60731
+	Node 61231 is READY	Type: TelosB	Version: 50	Voltage (mV): 3472.9004
+	Node 61131 is READY	Type: TelosB	Version: 50	Voltage (mV): 3758.545
+
+2017-07-28 09:57:38
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	61131	61231	60731
+
+2017-07-28 09:59:46
+	Stop command issued!
+
+2017-07-28 09:59:55
+	 Detect a subset of targets: 	61131	61231	60731
+	Node 61231	Type: TelosB	Version: 51	Voltage (mV): 3389.8926
+	Node 60731	Type: TelosB	Version: 51	Voltage (mV): 3702.3926
+
+2017-07-28 10:00:11
+	 Detect a subset of targets: 	61131
+	Node 61131	Type: TelosB	Version: 51	Voltage (mV): 3757.3242
+
+2017-07-28 10:01:23
+	Exit Mobile Deluge...
+
+2017-07-28 10:05:47
+	Detecting neighbors...
+	Node 11401	Type: IRIS	Version: 50	Voltage (mV): 3779.0
+	Node 10401	Type: IRIS	Version: 50	Voltage (mV): 3844.0
+	Node 23131	Type: TelosB	Version: 50	Voltage (mV): 3742.6758
+	Node 30031	Type: IRIS	Version: 51	Voltage (mV): 2589.0
+	Node 20711	Type: IRIS	Version: 50	Voltage (mV): 3831.0
+	Node 21931	Type: TelosB	Version: 51	Voltage (mV): 3623.0469
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3708.496
+	Node 21151	Type: IRIS	Version: 50	Voltage (mV): 3767.0
+	Node 23031	Type: TelosB	Version: 50	Voltage (mV): 3706.0547
+	Node 21411	Type: IRIS	Version: 50	Voltage (mV): 3857.0
+	Node 31131	Type: IRIS	Version: 50	Voltage (mV): 2137.0
+	Node 50331	Type: MICAz	Version: 50	Voltage (mV): 3865.0
+	Node 50431	Type: IRIS	Version: 50	Voltage (mV): 3598.0
+	Node 21501	Type: IRIS	Version: 50	Voltage (mV): 2536.0
+	Node 50531	Type: MICAz	Version: 50	Voltage (mV): 3640.0
+	Node 11801	Type: IRIS	Version: 50	Voltage (mV): 3805.0
+	Node 11501	Type: IRIS	Version: 50	Voltage (mV): 3924.0
+
+2017-07-28 10:06:06
+	Exit Mobile Deluge...
+
+2017-07-28 10:06:34
+	Stop command issued!
+
+2017-07-28 10:06:35
+	Connecting to nodes: 	23031	23131
+	Node 23031 is READY	Type: TelosB	Version: 50	Voltage (mV): 3704.834
+	Node 23131 is READY	Type: TelosB	Version: 50	Voltage (mV): 3742.6758
+
+2017-07-28 10:06:38
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	23031	23131
+
+2017-07-28 10:08:17
+	Stop command issued!
+
+2017-07-28 10:08:25
+	 Detect a subset of targets: 	23131	23031
+	Node 23131	Type: TelosB	Version: 51	Voltage (mV): 3736.5723
+	Node 23031	Type: TelosB	Version: 51	Voltage (mV): 3704.834
+
+2017-07-28 10:09:04
+	 Detect a subset of targets: 	22631	22731	22831	22931
+	Node 22831	Type: TelosB	Version: 50	Voltage (mV): 3782.959
+	Node 22931	Type: TelosB	Version: 50	Voltage (mV): 3708.496
+
+2017-07-28 10:09:15
+	Stop command issued!
+
+2017-07-28 10:09:15
+	Connecting to nodes: 	22831	22931
+	Node 22831 is READY	Type: TelosB	Version: 50	Voltage (mV): 3782.959
+	Node 22931 is READY	Type: TelosB	Version: 50	Voltage (mV): 3709.7168
+
+2017-07-28 10:09:21
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22831	22931
+
+2017-07-28 10:12:25
+	Stop command issued!
+
+2017-07-28 10:12:35
+	 Detect a subset of targets: 	22931	22831
+	Node 22831	Type: TelosB	Version: 51	Voltage (mV): 3773.1934
+	Node 22931	Type: TelosB	Version: 51	Voltage (mV): 3706.0547
+
+2017-07-28 10:13:25
+	 Detect a subset of targets: 	22631	22731
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3574.2188
+
+2017-07-28 10:13:38
+	Stop command issued!
+
+2017-07-28 10:13:38
+	Connecting to nodes: 	22631	22731
+	Node 22731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3572.998
+
+2017-07-28 10:13:42
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22631	22731
+
+2017-07-28 10:13:51
+	Exit Mobile Deluge...
+
+2017-07-28 10:13:57
+	Abort the nodes: 
+	22731
+
+2017-07-28 10:14:06
+	Stop command issued!
+
+2017-07-28 10:14:07
+	Connecting to nodes: 	22631	22731
+
+2017-07-28 10:14:18
+	Exit Mobile Deluge...
+
+2017-07-28 10:14:27
+	 Detect a subset of targets: 	22631	22731
+
+2017-07-28 10:14:42
+	Stop command issued!
+
+2017-07-28 10:14:46
+Try to abort all nodes, but no nodes are in the memory, maybe the gateway is just started.
+
+2017-07-28 10:14:54
+	Abort the nodes: 
+	22631	22731
+
+2017-07-28 10:15:02
+	Exit Mobile Deluge...
+
+2017-07-28 10:15:11
+	Abort the nodes: 
+	22631	22731
+
+2017-07-28 10:15:24
+	Stop command issued!
+
+2017-07-28 10:15:24
+	Connecting to nodes: 	22631	22731
+
+2017-07-28 10:17:34
+	Exit Mobile Deluge...
+
+2017-07-28 10:17:41
+	 Detect a subset of targets: 	22631	22731
+	Node 22731	Type: TelosB	Version: 50	Voltage (mV): 3576.6602
+	Node 22631	Type: TelosB	Version: 50	Voltage (mV): 3813.4766
+
+2017-07-28 10:17:49
+	Stop command issued!
+
+2017-07-28 10:17:49
+	Connecting to nodes: 	22631	22731
+	Node 22631 is READY	Type: TelosB	Version: 50	Voltage (mV): 3812.2559
+	Node 22731 is READY	Type: TelosB	Version: 50	Voltage (mV): 3572.998
+
+2017-07-28 10:17:52
+	Dissemination and reprogramming started!
+	Update the flags for nodes: 
+	22631	22731
+
+2017-07-28 10:19:57
+	Stop command issued!
+
+2017-07-28 10:20:01
+	 Detect a subset of targets: 	22631	22731
+	Node 22731	Type: TelosB	Version: 51	Voltage (mV): 3564.4531
+	Node 22631	Type: TelosB	Version: 51	Voltage (mV): 3807.373
+
+2017-07-28 10:20:05
+	Exit Mobile Deluge...
+
+2017-11-28 12:38:50
+	Detecting neighbors...
+
+2017-11-28 12:39:22
+	 Detect a subset of targets: 	100
+
+2017-11-28 12:41:04
+	Detecting neighbors...
+
+2017-11-28 12:41:37
+	Detecting neighbors...

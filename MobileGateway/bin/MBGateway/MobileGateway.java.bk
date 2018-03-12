@@ -1,0 +1,680 @@
+package MBGateway;
+/**
+ * MobileGateway for MobileDeluge.
+ * 
+ *
+ * @author XiaoyangZhong <xiaozhon@iupui.edu>
+ * @date September 19 2013
+ */
+
+//import java.io.IOException;
+//import java.io.BufferedReader;
+//import java.io.InputStream;
+//import java.io.InputStreamReader;
+
+import java.io.*;
+
+import javax.swing.*;
+import javax.swing.filechooser.*;
+
+import net.tinyos.message.*;
+import net.tinyos.packet.*;
+import net.tinyos.util.*;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+import java.sql.Time;
+import java.text.SimpleDateFormat;
+
+
+public class MobileGateway_bk implements MessageListener {
+
+	private MoteIF moteIF;
+
+	static PhoenixSource phoenix;
+	
+	// variables
+	static String source = null;
+	static int newChannel = 26;
+	static int nodeCmd = 0;	
+	
+	static List<Nodes> recordList = new ArrayList<Nodes>();
+	static int recordCount = 0;
+	
+	
+	static int[] targetList = new int[Constants.MAX_NUM_IDS];
+	static int targetCount = 0;
+	
+	static boolean newCycle =  false;
+
+	static Integer nodeid = Integer.decode("0xFFFF");
+	static String deluge_cmd = null;
+	static String nodeType = "UNKNOWN";
+  
+	public MobileGateway_bk(MoteIF moteIF) {
+		this.moteIF = moteIF;
+		this.moteIF.registerListener(new SerialReplyMsg(), this);
+	}
+
+	// send command packets
+	public void sendPackets(int cmd, short node_count, int[] node_list, int channel) {
+		SerialCmdMsg payload = new SerialCmdMsg();
+
+		try {
+			try {Thread.sleep(200);}
+			catch (InterruptedException exception) {
+			}
+			
+			if(cmd != Constants.REPORT) {
+				System.out.print("\nSending command to: ");
+				for(int j = 0; j < node_count; j++) {
+					System.out.print(node_list[j] + " ");
+				}
+			} else {
+				System.out.print("\nDetecting neighbors...");
+			}
+			
+			System.out.println('\n');
+			payload.set_cmd((short)cmd);
+			payload.set_nodeCount(node_count);
+			payload.set_nodeList(node_list);
+			payload.set_newChannel((short)channel);
+			moteIF.send(0, payload);
+			
+	//		printOptions();
+		}
+		catch (IOException exception) {
+			System.err.println("Exception thrown when sending packets. Exiting.");
+			System.err.println(exception);
+		}
+	}
+	// receive packet from base station
+	// base station packets contain node id and node status
+	public void messageReceived(int to, Message message) {
+		SerialReplyMsg msg = (SerialReplyMsg) message;
+		float voltage = 0;
+	//	System.out.println("Received packet...\n");
+		switch(msg.get_nodeType()) {
+			case Constants.IRIS_MOTE:
+				nodeType = "IRIS";
+				if(voltage != 0) {
+					// if there is no sensorboard attached with the mote,
+					// voltage reading will be 0.
+					voltage = 1023*1024 / msg.get_nodeVoltage();
+				}
+				break;
+			case Constants.MICAZ_MOTE:
+				nodeType = "MICAz";
+				if(voltage != 0) {
+					voltage = 1023*1024 / msg.get_nodeVoltage();
+				}
+				break;
+			case Constants.TELOSB_MOTE:
+				nodeType = "TelosB";
+				voltage = (float)msg.get_nodeVoltage() * 3 / 4096;
+				break;
+			case Constants.EPIC_MOTE:
+				nodeType = "Epic";
+				break;
+			case Constants.MULLE_MOTE:
+				nodeType = "Mulle";
+				break;
+			case Constants.TINYNODE_MOTE:
+				nodeType = "TinyNode";
+				break;
+			case Constants.UNKNOWN:
+				nodeType = "UNKNOWN";
+				break;	
+		}
+		// update the type field in the record list
+		if(recordList.size() > 0){
+			// if the record list is not empty, find the node in the target list, and set the type field
+			int i;
+			for(i = 0; i < recordList.size(); i++) {
+				if(msg.get_nodeid() == recordList.get(i).nodeid) {
+					// found the node
+					recordList.get(i).set_type(nodeType);
+				}
+			}
+		}
+		
+		if(msg.get_cmd() == Constants.NODE_READY) {
+			System.out.print("Node " + msg.get_nodeid() + " is READY\tType: " + nodeType + "\tVersion: " + msg.get_appVersion() + '\n');
+	//		System.out.println("\tVoltage (mV): " + voltage);
+		//	SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+      	//	System.out.println("At time: " + df.format(new Date()) + '\n');
+			try {
+				Logs.log("\tNode " + msg.get_nodeid() + " is READY\tType: " + nodeType + "\tVersion: " + msg.get_appVersion() + "\tVoltage (mV): " + voltage + '\n');
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+      	}	
+		else if(msg.get_cmd() == Constants.NODE_ABORTED) {
+			System.out.println("Node " + msg.get_nodeid() + " is ABORTED!");
+			try {
+				Logs.log("Node " + msg.get_nodeid() + " is ABORTED!\n");
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		//	System.exit(1);
+		} 
+		else if(msg.get_cmd() == Constants.NODE_REPORT) {
+			System.out.print("Node " + msg.get_nodeid() + "\tType: " + nodeType + "\tVersion: " + msg.get_appVersion());
+			System.out.println("\tVoltage (mV): " + voltage);
+			try {
+				Logs.log("\tNode " + msg.get_nodeid() + " is READY\tType: " + nodeType + "\tVersion: " + msg.get_appVersion() + "\tVoltage (mV): " + voltage + '\n');
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		} 
+		else if(msg.get_cmd() == Constants.NODE_NO_RESPONSE) {
+			System.out.println("Node " + msg.get_nodeid() + " NO RESPONSE!");
+			try {
+				Logs.log("\tNode " + msg.get_nodeid() + " NO RESPONSE!\n");
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		
+		// How to make sure that it is a proper time to shut down the phoenix connection
+		
+//		phoenix.shutdown();// shut down the serial communication
+//		printOptions();
+		
+	}
+  
+  
+	private static void usage() {
+		System.err.println("usage: MobileGateway [-comm <source> <new Channel>] \n");
+	}
+
+	private static void runDelugeCmd(String newCmd) {
+		try {
+		//	phoenix.shutdown(); // shut down the phoenix connection before deluge command
+			
+			Runtime runtime = Runtime.getRuntime();
+			Process process = runtime.exec(newCmd);
+            InputStream input_s = process.getInputStream();  
+           
+            InputStreamReader is_reader = new InputStreamReader(input_s);  
+
+   			BufferedReader buffer = new BufferedReader(is_reader);  
+    		String line = null;  
+    		while ((line = buffer.readLine()) != null) {  
+        		System.out.println(line);  
+    		}  
+    		input_s.close();  
+    		is_reader.close();  
+    		buffer.close();  		
+		}catch(Exception ex){
+			System.out.println("Deluge Command Execution Error!");
+		}
+		
+		printOptions();
+	}
+
+	public static void printOptions() {
+		System.out.println("\n************************************************ ");
+		System.out.println("* Please Select Operation: ");
+		System.out.println("* 0. Start a new reprogramming iteration");
+		System.out.println("* 1. Inject New Image");	// -i
+		System.out.println("* 2. Connect Target Node");	// cmd: DISS
+		System.out.println("* 3. Disseminate Image and Reprogram motes");	// -dr
+		System.out.println("* 4. Stop Image Dissemination");	// -s
+		System.out.println("* 5. Abort Reprogramming");	// cmd: ABORT
+		System.out.println("* 6. Print the Base Station Information");	// -p
+		System.out.println("* 7. Erase a Volume");	// -e
+		System.out.println("* 8. Detect Neighbors");
+		System.out.println("* 9. Exit\n");
+		System.out.print("* Input Operation Number: ");
+	}
+
+	private static void initialization() throws IOException {
+		int i;
+/*		for (i = 0; i < MAX_NUM_IDS; i++){
+			dissList[i][0] = 0;
+			dissList[i][1] = 0;
+			abortList[i] = 0;
+		}
+*/		
+		// check the record file
+		System.out.println("Check initial settings...");
+		RecordOperator.check_record_file();
+		System.out.println("**Initial checking completed!");
+	}
+	
+	public static void main(String[] args) throws Exception {
+
+		int option;
+		String id_string;
+		String[] ids_list;
+		boolean id_error;
+		int i;
+		String opt_string;
+		
+		SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+      	String time = df.format(new Date());
+      	String tmpLog = null;
+		
+		MoteIF mif;
+		MobileGateway serial;
+		
+		if (args.length != 3) {
+			usage();
+			System.exit(1);
+		}
+		else {
+			if (!args[0].equals("-comm")) {
+				usage();
+				System.exit(1);
+			}
+			source = args[1];
+			newChannel = Integer.parseInt(args[2]);
+		}
+		
+		// check the record file
+//		System.out.println("Check initial settings...");
+//		RecordOperator.check_record_file();
+//		System.out.println("**Initial checking completed!");
+		
+		initialization();
+		
+		// TODO: reset all the flags in the record file
+		// not here, provide a new option to clear all the flags
+		//		x. start a new iteration
+		// RecordOperator.reset_all_flags();
+		
+		printOptions();
+
+		// file chooser variables
+		String imagePath = System.getProperty("user.dir");	// set default image path to current folder
+		// we only want to select tos_image.xml files
+		// Java 1.6 is needed to use this component
+		FileNameExtensionFilter filter = new FileNameExtensionFilter("XML file","xml");
+
+		phoenix = BuildSource.makePhoenix(source, PrintStreamMessenger.err);
+		
+		while(true) {
+		
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+			option = 0;
+			opt_string = br.readLine();
+			
+			if (opt_string.length() == 0) {
+				printOptions();
+				continue;
+			} else {
+				try {
+					option = Integer.parseInt(opt_string);
+				} catch (NumberFormatException e) {
+				// TODO Auto-generated catch block
+				
+					System.out.println("\nInvalid Selection!");
+					printOptions();
+					continue;
+				}
+			} 
+			
+		//	System.out.print("opt_string is: " + opt_string);
+			
+			switch (option) {
+				case 0:
+					// get nodes flag ready for the new iteration
+					System.out.println("Preparing records...");
+					RecordOperator.clear_flags();
+					System.out.println("Records are ready!");
+					printOptions();
+					
+					time = df.format(new Date());
+					Logs.log("\n***************************************************************\n");
+					Logs.log(time + '\n');
+					Logs.log("\tStart a new iteration!\n");
+					break;
+				case 1:	// inject
+					phoenix.shutdown();
+					JFileChooser fc = new JFileChooser(imagePath);	
+	
+					fc.setDialogTitle("Select Image");
+					fc.setFileFilter(filter);
+					
+					int returnVal = fc.showOpenDialog(null);
+					if (returnVal == JFileChooser.APPROVE_OPTION) {
+			            File file = fc.getSelectedFile();
+			            //This is where a real application would open the file.
+			            System.out.println("Opening: " + file.getName() + "\n" );
+			            imagePath = fc.getSelectedFile().getPath();
+			            // by default, we let the new image always stored on slot 1
+             			deluge_cmd ="tos-deluge " + source + " -i 1 "+ imagePath;
+             			System.out.println(deluge_cmd);
+             		
+             			runDelugeCmd(deluge_cmd);
+			        } else {
+			        	System.out.println("Image File Not Selected!\n");
+			        	printOptions();
+			        }
+             		
+					
+					break;
+				case 2:	// get target node ready
+					// get the dissList, set the flag bit
+					phoenix.shutdown();
+//					int[] cur_list = new int[MAX_NUM_IDS];
+//					int cur_count = 0;
+					System.out.print("Input Target Node ID List: ");
+					
+					br = new BufferedReader(new InputStreamReader(System.in));
+				
+					// get the list of nodeids
+					id_string = br.readLine();
+					ids_list = id_string.split(" ");
+					id_error = false;
+				
+					// clear target list
+					for(i = 0; i < targetList.length; i++){
+						targetList[i] = 0;
+					}
+					
+					if (newCycle) {
+						// this is a new cycle, clear the dissList
+						recordCount = 0;
+						// remove all the elements in the list
+						// from the final effect, list.removeAll and list.clear are the same,
+						// list.clear is faster
+						//recordList.removeAll(recordList);
+						recordList.clear();
+					
+						for(i = 0; i < ids_list.length; i++) {
+							try {
+								targetList[i] = Integer.decode(ids_list[i]);
+								
+								recordCount++;
+								Nodes node = new Nodes();
+								node.nodeid = targetList[i];
+								node.to_be_updated = 1;
+								// add the node to the list
+								recordList.add(node);
+								
+//								recordList[0][i] = cur_list[i];
+//								dissList[1][i] = 1;
+
+						//		System.out.println(ids_list[i]);
+							} catch (NumberFormatException e) {
+							// TODO Auto-generated catch block
+								id_error = true;
+								continue;
+							} 
+						}
+						newCycle = false;
+					} else {
+						int count = recordList.size();
+						
+						for(i = 0; i < ids_list.length; i++) {
+							try {
+								targetList[i] = Integer.decode(ids_list[i]);
+								
+								recordCount++;
+								Nodes node = new Nodes();
+								node.nodeid = targetList[i];
+								node.to_be_updated = 1;
+								// add the node to the list
+								recordList.add(node);							
+//								dissCount++;
+//								dissList[0][count + i] = cur_list[i];
+//								dissList[1][count + i] = 1;
+
+						//		System.out.println(ids_list[i]);
+							} catch (NumberFormatException e) {
+							// TODO Auto-generated catch block
+								id_error = true;
+								continue;
+							} 
+						}
+					}
+					
+	/*				for(i = 0; i < ids_list.length; i++) {
+						try {
+							dissList[0][i] = Integer.decode(ids_list[i]);
+							dissList[1][i] = 1;
+						//	dissCount++;
+					//		System.out.println(ids_list[i]);
+						} catch (NumberFormatException e) {
+						// TODO Auto-generated catch block
+							id_error = true;
+							continue;
+						} 
+					}
+	*/				
+				
+					if (id_error) {
+						// if there some id is not valid
+						System.out.println("\nInvalid Node ID!\n");
+						printOptions();
+						continue;	
+					}
+					
+					targetCount = (short)ids_list.length;
+				//	nodeCount = (short)ids_list.length;
+					nodeCmd = Constants.DISS;
+		
+					phoenix = BuildSource.makePhoenix(source, PrintStreamMessenger.err);
+
+					mif = new MoteIF(phoenix);
+					serial = new MobileGateway(mif);
+					serial.sendPackets(nodeCmd, (short)targetCount, targetList, newChannel);
+					
+					time = df.format(new Date());
+					Logs.log('\n' + time + '\n');
+					Logs.log("\tConnecting to nodes: ");
+					tmpLog = '\t' + ids_list[0];
+					
+					for(i = 1; i < ids_list.length; i ++){
+						tmpLog = tmpLog + '\t' + ids_list[i];
+					}
+					Logs.log(tmpLog + '\n');
+					
+					break;
+				case 3:	// disseminate and reprogramming
+					phoenix.shutdown();
+					deluge_cmd = "tos-deluge " + source + " -dr 1";
+					System.out.println(deluge_cmd);
+					runDelugeCmd(deluge_cmd);
+					// after the command executed, update the flags in the record
+					
+					time = df.format(new Date());
+					Logs.log('\n' + time + '\n');
+					Logs.log("\tDissemination and reprogramming started!\n");
+					
+					for(i = 0;  i < recordCount; i++) {
+						
+						Nodes tmp = recordList.get(i);
+						// the second field is the "FLAG"
+						if(i == 0){
+							tmpLog = '\t' + Integer.toString(tmp.nodeid);
+						} else{
+							tmpLog = tmpLog + '\t' + Integer.toString(tmp.nodeid);
+						}
+						
+						RecordOperator.update(Integer.toString(tmp.nodeid), tmp.type, Constants.FLAG, "YES");
+					}
+					newCycle = true;
+					
+					Logs.log("\tUpdate the flags for nodes: \n");
+					Logs.log(tmpLog + '\n');
+					
+					break;
+				case 4:	// stop dissemination
+					phoenix.shutdown();
+					deluge_cmd = "tos-deluge " + source + " -s";
+					System.out.println(deluge_cmd);
+					runDelugeCmd(deluge_cmd);
+					
+					time = df.format(new Date());
+					Logs.log('\n' + time + '\n');
+					Logs.log("\tStop command issued!\n");
+					
+					break;
+				case 5:	// abort
+					phoenix.shutdown();
+					nodeCmd = Constants.ABORT;
+					
+					System.out.println("Input Target Node ID List to be Aborted (input 'a' for all nodes): ");
+					
+					br = new BufferedReader(new InputStreamReader(System.in));
+					
+					id_string = br.readLine();
+					// clear the target list
+					for(i = 0; i < targetList.length; i++){
+						targetList[i] = 0;
+					}
+					
+					if(id_string.equals("a")) {
+						// no need to change the node list
+						System.out.println("All nodes will be aborted!");
+						
+						time = df.format(new Date());
+						Logs.log('\n' + time + '\n');
+						
+						if(recordList.size() == 0) {
+							System.out.println("(No nodes in the memory, is the gateway just started?)");
+							Logs.log("Try to abort all nodes, but no nodes are in the memory, maybe the gateway is just started.\n");
+						} else {
+							Logs.log("\tAbort all the nodes: \n");
+							// use recordList to abort all nodes
+							
+						
+							for(i = 0; i < recordList.size(); i++){
+								Nodes tmp = recordList.get(i);
+								targetList[i] = tmp.nodeid;
+							}
+							
+							targetCount = recordList.size();
+							recordList.clear();
+							tmpLog = '\t' + Integer.toString(targetList[0]);
+							for(i = 1; i < targetCount; i ++){
+								tmpLog = tmpLog + '\t' + Integer.toString(targetList[i]);
+							}
+							Logs.log(tmpLog + '\n');
+						}
+						recordCount = recordList.size();
+				
+					} else {
+						ids_list = id_string.split(" ");
+						id_error = false;
+						// clear target list
+					//	for(i = 0; i < targetList.length; i++){
+					//		targetList[i] = 0;
+					//	}
+						for(i = 0; i < ids_list.length; i++) {
+							try {
+								targetList[i] = Integer.decode(ids_list[i]);
+								if(recordCount == 0) {	// recordList is empty, do not check the record list
+									System.out.println("RecordList is empty, continue!");
+							//		continue;
+								} else {
+									for(int j = 0; j < recordCount; j++){		// BUG: if no nodes in recordList, IndexOutOfRange exception
+										Nodes tmpNode = recordList.get(j);
+										if(targetList[i] == tmpNode.nodeid) {
+											recordList.remove(j);
+											break;
+										}
+									//	if(dissList[0][j] == abortList[i]) {
+									//		// if the node is aborted, reset the flag of the node in the dissList
+									//		dissList[1][j] = 0;
+									//	}
+									}
+								}
+								
+							} catch (NumberFormatException e) {
+							// TODO Auto-generated catch block
+								id_error = true;
+								continue;
+							} 
+						}
+						if (id_error) {
+							// if there some id is not valid
+							System.out.println("\nInvalid Node ID!\n");
+							printOptions();
+							continue;	
+						}
+						recordCount = recordList.size();
+						targetCount = (short)ids_list.length;
+						
+						time = df.format(new Date());
+						Logs.log('\n' + time + '\n');
+						Logs.log("\tAbort the nodes: \n");
+						tmpLog = '\t' + Integer.toString(targetList[0]);
+						
+						for(i = 1; i < ids_list.length; i ++){
+							tmpLog = tmpLog + '\t' + Integer.toString(targetList[i]);
+						}
+						Logs.log(tmpLog + '\n');
+					
+					}
+					
+					phoenix = BuildSource.makePhoenix(source, PrintStreamMessenger.err);
+
+					mif = new MoteIF(phoenix);
+					serial = new MobileGateway(mif);
+					serial.sendPackets(nodeCmd, (short)targetCount, targetList, newChannel);
+					
+					
+					break;
+				case 6:	// print base station info. (-p)
+					phoenix.shutdown();
+					deluge_cmd = "tos-deluge " + source + " -p 1";
+					System.out.println(deluge_cmd);
+					runDelugeCmd(deluge_cmd);
+					break;
+				case 7:	// erase
+					phoenix.shutdown();
+					deluge_cmd = "tos-deluge " + source + " -e 1";
+					System.out.println(deluge_cmd);
+					runDelugeCmd(deluge_cmd);
+					break;
+				case 8:	// detect neighbors
+					phoenix.shutdown();
+					nodeCmd = Constants.REPORT;
+					
+					System.out.println("Wait for neighbor answers... ");
+
+					targetCount = 0;
+					for(i = 0; i < Constants.MAX_NUM_IDS; i++) {
+						// cleart the target list
+						targetList[i] = 0xFFFF;
+					}
+					
+					phoenix = BuildSource.makePhoenix(source, PrintStreamMessenger.err);
+
+					mif = new MoteIF(phoenix);
+					serial = new MobileGateway(mif);
+					serial.sendPackets(nodeCmd, (short)targetCount, targetList, newChannel);
+					
+					time = df.format(new Date());
+					Logs.log('\n' + time + '\n');
+					Logs.log("\tDetect neighbors...\n");
+	
+					break;
+					/////////////////////////////////////
+				case 9:	// exit
+					System.out.println("Exit Mobile Deluge...\n");
+					time = df.format(new Date());
+					Logs.log('\n' + time + '\n');
+					Logs.log("\tExit Mobile Deluge...\n");
+					System.exit(1);
+					break;
+				default:
+					printOptions();
+					break;
+			}
+			
+	//		}// if
+		}// while
+		
+	}
+}

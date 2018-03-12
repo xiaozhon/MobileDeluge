@@ -1,0 +1,170 @@
+###################################################################################
+
+Reprogrammer, a control service on top of Deluge, the key component of MobileDeluge
+
+
+
+###################################################################################
+Updated: 2014-10-22, Version 4.1.4 
+	1. Add SET_ID commmand. Use ActiveMessageAddressC component.
+		 - ReprogrammerNodeC.nc
+		 - ReprogrammerNodeP.nc
+		 	replace all TOS_NODE_ID with 
+		 	      call AMPacket.address();
+	   
+	   TOS_NODE_ID is a macro, it cannot change. The id that has been changed is the
+	   AM stack address. Thus, when trying to refer the node's address, use the following
+	   command:
+	        call AMPacket.address();
+	        
+	   DO NOT USE TOS_NODE_ID ANYMORE!!!
+	   
+	   
+
+
+###################################################################################
+Updated: 2014-9-2, Version 4.1.3 
+	1. Updated MobileGateway, send a stop command before connecting the targets.
+	
+	2. MobileGateway display voltage of MicaZ and IRIS motes.
+	
+	Modified files are:
+		/simpleGateway/
+			MobileGateway_v2.2.jar (replaced the previous one)
+
+		/Reprogrammer/
+			ReprogrammerNodeP.nc
+			
+###################################################################################
+Updated: 2014-9-1, Version 4.1.2
+	1. On node side, call "stop" command when the mission is aborted, in case that, the 
+	   "-s" command is lost or forgotten.
+	
+	2. Add "#ifdef   #endif" statement around the Leds.
+
+
+###################################################################################
+Update 2014-8-28:	Version 4.1.1
+	Added to additional commands to MobileDeluge. Modified files are:
+		/Reprogrammer/
+			Reprogrammer.h
+			ReprogrammerBaseC.nc
+			ReprogrammerBaseP.nc
+			ReprogrammerNodeC.nc
+			ReprogrammerNodeP.nc
+		
+		/SimpleDrip/
+			DisseminationImplP.nc
+		
+		/simpleGateway/
+			MobileGateway_v2.1.jar (replaced the previous one)
+	
+	1. Add Reboot command
+	
+	2. Add Detect a subset of nodes command
+	
+
+##################################################################################
+Updated: 2014-8-27, Version 4 
+	Use a random code to identify each Mobile command, do not use seqno.
+	
+	1. On Base side, the random code is generated using RandomC, the seed is every time 
+	   when a command is going to sent, based on the LocalTime.
+	   
+	2. On Node side, use the following logic to filter the duplicates
+	
+			if(randCode != cmd_msg -> randCode) {		// 
+				randCode = cmd_msg -> randCode;
+			} else {	
+				// oldSeqno equals to cmd_msg -> seqno 
+				// duplicated cmd received
+				return msg;
+			} 
+
+###################################################################################
+Update 2014-8-24:
+	Changed "newChannel" in header file, uint16_t to uint8_t.
+	
+	1. ReprogrammerNodeP.nc
+	   - Add RetxTimer
+	   - Find the possible bug why sometimes node does not reply. Previously the piece of code
+	     is used to filter the duplicated command:
+	   
+	  		if(oldSeqno != cmd_msg -> seqno) {		//
+				oldSeqno = cmd_msg -> seqno;
+			} else {	
+				// oldSeqno equals to cmd_msg -> seqno 
+				// duplicated cmd received
+				return msg;
+			}
+			
+		  However, since the "seqno" is not linearly increasing, sometimes the DelugeBase will
+		  reset, and seqno goes back to 0. In this case, if a node already has a seqno of 8, then 
+		  it will ignore this command.
+		  
+		  *** problem remains, how to filter duplicated commands, especially the Detect command?
+
+
+###################################################################################
+Update 2014-8-12:
+	modified the field type in Header file. Change some uint16_t type to uint8_t.
+
+
+###################################################################################
+Updated: 2014-7-31, Version 4, inside aswp_app_1.1.6
+	*** this modification is not needed
+	
+	1. "BaseP.nc"
+		- changed the "num_retries" to int8_t instead of uint8_t; In RetxTimer.fired, 
+		  changed to if(num_retries++ < MAX_RETX). The changes fixed the bug that, if the type
+		  is unsigned, when --num_retires reaches to 
+		  
+		  
+		  
+		  
+
+###################################################################################
+Updated: 2014-7-26, Version 4
+	1. "NodeP.nc": at sendDone event, even if the ack is not received, the target node also gets ready
+	   to be reprogrammed. In case that the ack is lost, but the reply is received by the
+	   DelugeBase, and thought the target node is ready.
+
+
+###################################################################################
+
+Updated: 2014-4-16, Verison 3.2
+	
+	Change 1 by 1 notification to Broadcast
+
+
+###################################################################################
+
+Updated: 2014-4-14, Version 3.1, overall logic changed.
+
+	1. Gateway send a list of target node ids to DelugeBase
+	2. DelugeBase get the target list, send to node one by one, using layer-2 acknowledgement.
+		> If ack is received, waiting for nodes response, go to the Receive event.
+		> If no ack is recieved, send serial message to Gateway, notify next target node.
+	
+	3. Target node responds with the information of its mote type, using layer-2 acknowledgement.
+	   > if ack is received, change to new channel, disable lPL
+	   > if no ack is received, reset to original state.
+
+	4. DelugeBase receives the node's reply, forwards this message to Gateway, and notify
+	   next target node.
+	
+	5. When all nodes are notified, change to new channel, disable LPL.
+	
+	6. In Gateway, check every target node is desired, if a target node is undesired, send abort command
+	   to this node, using layer-2 acknowledgement.
+
+	7. Handshaking finished. Regular Deluge commands can be issued to reprogram the target nodes.
+	
+# Other considerations:
+	1. the gateway should be connect to the node when deluge command is not issued or finished
+	
+	2. the LOCAL_DEF_WAKE_UP_INTERVAL should be always set to 0.	
+	
+	3. the node's reply message is sent at the original channel
+	
+	
